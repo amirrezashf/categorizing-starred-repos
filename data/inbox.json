@@ -5241,6 +5241,82 @@
       ],
       "stars": 17,
       "readme_snippet": "# BlackSwan Upload — `upload.php`\n\n> **One PHP file. Move files anywhere.**\n> Pull a file from any URL, push files from your PC, relay through a second\n> server when the source is blocked, browse and manage FTP/FTPS/SFTP servers,\n> and diff-and-sync two servers — all from a single, dependency-free\n> `upload.php` you drop in, use, and delete.\n\n<a href=\"screenshot-full.jpeg\" target=\"_blank\"><img src=\"screenshot.jpeg\" style=\"border-radius:0.5rem;\" alt=\"The upload.php interface: sidebar app shell, upload form with live progress, and the file-tree browser.\" width=\"460\"></a>\n\n> **Latest release:** v3.8.2 · 2026-08-10<br>\n> **Single file:** `upload.php` — no install, no Composer, no build step. Tooltips (Tippy.js) are inlined; the optional in-browser code editor lazy-loads CodeMirror from a CDN only when you open it.<br>\n> **Zero server dependencies:** pure PHP back-end + vanilla JS/CSS front-end. Works on shared hosting, cPanel, DirectAdmin, managed WordPress.\n\n---\n\n## Why this exists\n\nSomet"
+    },
+    {
+      "id": 1249703818,
+      "repo": "hieunc229/mailflare",
+      "url": "https://github.com/hieunc229/mailflare",
+      "description": "Email for professionals and teams",
+      "language": "TypeScript",
+      "topics": [
+        "cloudflare",
+        "cloudflare-workers",
+        "email"
+      ],
+      "stars": 2762,
+      "readme_snippet": "<img src=\"/public/icon-96.png\" alt=\"Mailflare\" width=\"72\" />\n\n# Mailflare\n\nMailflare is a self-hosted email inbox for custom domains, built on Cloudflare.\n\n[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hieunc229/mailflare)\n\n![Mailflare inbox](/screenshot.png)\n\nThanks to mailflare sponsors. Want to support the project? Drop [@hieuSSR](https://x.com/hieuSSR) a message\n\n### Featured sponsors\n\n<a target=\"_blank\" href=\"https://sequenzy.com/?ref=hieunc229/mailflare\">\n  <img width=\"160\" src=\"/sponsors/sequenzy.png\" alt=\"Sequenzy\">\n</a>\n\n## What you can do\n\n- Connect domains and set up Cloudflare Email Routing from the dashboard.\n- Create personal and shared mailboxes with delegated access.\n- Send and receive email with attachments, rich formatting, signatures, and automatic replies.\n- Organize mail with search, custom folders, stars, snoozing, archive, spam, and trash.\n- Create routing rules to store, forw"
+    },
+    {
+      "id": 1160693255,
+      "repo": "zubair-trabzada/geo-seo-claude",
+      "url": "https://github.com/zubair-trabzada/geo-seo-claude",
+      "description": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community",
+      "language": "Python",
+      "topics": [],
+      "stars": 10320,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/banner.svg\" alt=\"GEO-SEO Claude Code Skill\" width=\"900\"/>\n</p>\n\n<p align=\"center\">\n  <strong>GEO-first, SEO-supported.</strong> Optimize websites for AI-powered search engines<br/>\n  (ChatGPT, Claude, Perplexity, Gemini, Google AI Overviews) while maintaining traditional SEO foundations.\n</p>\n\n<p align=\"center\">\n  AI search is eating traditional search. This tool optimizes for where traffic is going, not where it was.\n</p>\n\n---\n\n## Star History\n\n<a href=\"https://www.star-history.com/#zubair-trabzada/geo-seo-claude&Date\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/star-history-dark.svg\">\n    <img alt=\"Star History Chart\" src=\"assets/star-history.svg\">\n  </picture>\n</a>\n\n---\n\n## Why GEO Matters (2026)\n\n| Metric | Value |\n|--------|-------|\n| GEO services market | $850M+ (projected $7.3B by 2031) |\n| AI-referred traffic growth | +527% year-over-year |\n| AI traffic conversion rate vs organic | 4.4x higher |\n| Gartner: s"
+    },
+    {
+      "id": 1358295353,
+      "repo": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "language": "Swift",
+      "topics": [],
+      "stars": 693,
+      "readme_snippet": "# Codenotch\n\nA macOS app that pins a small black notch to a screen edge, showing how much of\neach coding assistant's usage limit you have burned — and whether it is still\nworking, done, or waiting on you.\n\n![Collapsed notch with hover tooltip](docs/design/frame-124-hover-tooltip.png)\n\nHover a ring for its limit windows and when they reset. Claude's ring shows the\nsame **current session** window Claude Code's own `/usage` leads with, so the\ntwo never disagree.\n\n## What it reads\n\n| Provider | Source | How |\n|---|---|---|\n| **Claude Code** | official | The OAuth token in the login keychain, against the same endpoint Claude Code's own `/usage` uses. |\n| **Cursor** | official | The editor's own signed-in session, read from its local SQLite state — no separate sign-in. |\n| **Codex** | official | Codex's own app server, asked live for the current rate limits. Falls back to its rollout log when Codex isn't running. |\n| **Antigravity** | official where licensed, otherwise a request count | Anti"
+    },
+    {
+      "id": 1306847201,
+      "repo": "NaxonM/hamsoo",
+      "url": "https://github.com/NaxonM/hamsoo",
+      "description": "RTL & Persian typography helper WebExtension for AI chat sites (ChatGPT, Claude, Gemini, DeepSeek, and more).",
+      "language": "JavaScript",
+      "topics": [
+        "bidi",
+        "chatgpt",
+        "chrome-extension",
+        "claude",
+        "firefox-addon",
+        "gemini",
+        "persian",
+        "persian-fonts",
+        "rtl",
+        "typography",
+        "webextension"
+      ],
+      "stars": 13,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/logo.png\" width=\"112\" height=\"112\" alt=\"Hamsoo logo\">\n\n# Hamsoo &nbsp;·&nbsp; هم‌سو\n\n**RTL and Persian typography fix for AI chat interfaces.**\n\nAI chat platforms often struggle with Persian and right-to-left (RTL) text — displaying left-aligned paragraphs, broken punctuation, and cramped default fonts. Hamsoo fixes text direction, font rendering, and line spacing across AI web chats directly in your browser without altering your content.\n\n[![Firefox Add-ons](https://img.shields.io/amo/v/hamsoo-%D9%87%D9%85-%D8%B3%D9%88?label=Firefox%20Add-ons&logo=firefox&color=FF7139)](https://addons.mozilla.org/en-US/firefox/addon/hamsoo-%D9%87%D9%85-%D8%B3%D9%88/)\n[![Platform](https://img.shields.io/badge/Platform-Chromium%20%7C%20Firefox-brightgreen.svg)](#installation)\n[![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](LICENSE)\n[![Node](https://img.shields.io/badge/Node-%3E%3D18-informational.svg)](hamsoo-addon/package.json)\n[![Depen"
+    },
+    {
+      "id": 1152975720,
+      "repo": "bllackbull/Songbird",
+      "url": "https://github.com/bllackbull/Songbird",
+      "description": "A secure, lightweight and self-hostable chat platform.",
+      "language": "JavaScript",
+      "topics": [
+        "caas",
+        "chat",
+        "chat-application",
+        "chatapp",
+        "iaas",
+        "messaging",
+        "paas",
+        "secure",
+        "self-hosted"
+      ],
+      "stars": 96,
+      "readme_snippet": "[English](/README.md) | [فارسی](/README.fa_IR.md)\n\n<div align=\"center\">\n\n# <img src=\"./client/public/songbird-logo.svg\"> Songbird\n\n[![Version](https://img.shields.io/github/v/release/bllackbull/Songbird?label=version&color=blue)](https://github.com/bllackbull/Songbird/releases)\n![Build](https://img.shields.io/github/actions/workflow/status/bllackbull/Songbird/build.yml)\n[![Last commit](https://img.shields.io/github/last-commit/bllackbull/Songbird)](https://github.com/bllackbull/Songbird/commits/main/)\n[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)\n\n**Secure, lightweight and self-hosted chat platform**\n\n</div>\n\n## Key Features\n\n- 💬 **Chat Types**: Direct messages, groups, and channels\n- 📁 **Media Support**: File uploads, voice messages, video transcoding\n- 🔔 **Push Notifications**: Web push with VAPID\n- 📡 **Remote Channels**: Mirror Telegram or Songbird channels (v0.10.3+)\n- 🛡️ **Admin Panel**: Full management interface with owne"
     }
   ]
 }
