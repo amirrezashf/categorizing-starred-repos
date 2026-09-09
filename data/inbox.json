@@ -5358,6 +5358,24 @@
       "topics": [],
       "stars": 27,
       "readme_snippet": "<div align=\"center\">\n\n<img src=\"src/app/icon.svg\" width=\"84\" height=\"84\" alt=\"Taghvim\" />\n\n# تقویم · Taghvim\n\n**روزها را بهتر ببین.**\n\nتقویم ایرانی، راست‌چین و فارسی — بدون ثبت‌نام، بدون تبلیغات، بدون پایگاه داده.\n\n[**taghv.im**](https://taghv.im) · [تغییرات](https://taghv.im/changelog) · [درباره](https://taghv.im/about)\n\n<br />\n\n![Next.js](https://img.shields.io/badge/Next.js-16-000?style=flat-square&logo=nextdotjs&logoColor=white)\n![React](https://img.shields.io/badge/React-19-087EA4?style=flat-square&logo=react&logoColor=white)\n![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript&logoColor=white)\n![Tailwind](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)\n![Vitest](https://img.shields.io/badge/Vitest-128_passing-6E9F18?style=flat-square&logo=vitest&logoColor=white)\n![Playwright](https://img.shields.io/badge/Playwright-36_passing-2EAD33?style=flat-square&logo=playwright&logoColor=white)\n"
+    },
+    {
+      "id": 1227307732,
+      "repo": "egroup-labs/kept",
+      "url": "https://github.com/egroup-labs/kept",
+      "description": "Search, archive, and recall your AI conversations. ChatGPT, Claude, Gemini, Grok, Kimi. Local-first, MIT licensed.",
+      "language": "TypeScript",
+      "topics": [
+        "chrome-extension",
+        "claude-code",
+        "knowledge-graph",
+        "knowledge-management",
+        "local-first",
+        "mcp-server",
+        "obsidian"
+      ],
+      "stars": 132,
+      "readme_snippet": "\n# Kept\n\n<a href=\"https://www.producthunt.com/products/kept-ai-on-your-local-conversations?utm_source=badge-follow&utm_medium=badge&utm_source=badge-kept&#0045;ai&#0045;on&#0045;your&#0045;local&#0045;conversations\" target=\"_blank\"><img src=\"https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=1228638&theme=neutral\" alt=\"Kept - Your&#0032;AI&#0032;chats&#0044;&#0032;saved&#0032;as&#0032;Markdown&#0032;locally&#0032;with&#0032;no&#0032;cloud | Product Hunt\" style=\"width: 250px; height: 54px;\" width=\"250\" height=\"54\" /></a>\n\n\n<p align=\"center\">\n  <img src=\"demo.gif\" alt=\"Kept archival illustration\" width=\"100%\" style=\"border-radius:20px;\">\n</p>\n\nKept saves your AI conversations as local Markdown files, then gives you a desktop app to search, browse, connect, and reuse them.\n\nIt works with ChatGPT, Claude, Gemini, Grok, and Kimi. Your archive lives on your machine under `~/.kept/`, with an Obsidian-compatible vault plus local indexes for full-text search, topics, proje"
     }
   ]
 }
