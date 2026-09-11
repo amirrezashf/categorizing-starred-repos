@@ -5376,6 +5376,16 @@
       ],
       "stars": 132,
       "readme_snippet": "\n# Kept\n\n<a href=\"https://www.producthunt.com/products/kept-ai-on-your-local-conversations?utm_source=badge-follow&utm_medium=badge&utm_source=badge-kept&#0045;ai&#0045;on&#0045;your&#0045;local&#0045;conversations\" target=\"_blank\"><img src=\"https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=1228638&theme=neutral\" alt=\"Kept - Your&#0032;AI&#0032;chats&#0044;&#0032;saved&#0032;as&#0032;Markdown&#0032;locally&#0032;with&#0032;no&#0032;cloud | Product Hunt\" style=\"width: 250px; height: 54px;\" width=\"250\" height=\"54\" /></a>\n\n\n<p align=\"center\">\n  <img src=\"demo.gif\" alt=\"Kept archival illustration\" width=\"100%\" style=\"border-radius:20px;\">\n</p>\n\nKept saves your AI conversations as local Markdown files, then gives you a desktop app to search, browse, connect, and reuse them.\n\nIt works with ChatGPT, Claude, Gemini, Grok, and Kimi. Your archive lives on your machine under `~/.kept/`, with an Obsidian-compatible vault plus local indexes for full-text search, topics, proje"
+    },
+    {
+      "id": 1353912141,
+      "repo": "lombalo/Barghak",
+      "url": "https://github.com/lombalo/Barghak",
+      "description": "Auto-shutdown watchdog for planned power outages (Bargheman/Saapa API). Fetches the outage schedule, shows a live web dashboard, and shuts Windows down before the blackout. Runs standalone on Windows or as an OpenWrt router + client pair.",
+      "language": "Python",
+      "topics": [],
+      "stars": 11,
+      "readme_snippet": "# Barghak ⚡\n\n**Auto-shutdown watchdog for planned power outages.** Barghak fetches the planned-outage schedule of your electricity bill from the Bargheman (Saapa) portal, shows it on a live web dashboard, and safely shuts your Windows PC down a few minutes **before** the blackout starts — no more sudden power cuts killing your unsaved work.\n\n**English** | [فارسی](README.fa.md)\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)\n\n## Highlights\n\n- 📅 Fetches the outage schedule for today (Jalali) + the next 5 days\n- 🖥️ Live web dashboard: countdown to the next outage, 6-day schedule table, covered-systems list, logs, manual refresh button\n- ⏱️ Arms the Windows shutdown timer `lead_minutes` (default 5) before the outage starts\n- 🔁 Self-healing: the timer is re-armed after schedule changes or reboots, and cancelled if the outage is cancelled\n- 🧊 Rate-limit friendly: checks only on odd Tehran hours with a hard cap of 16 requests/day, and zero automatic requests onc"
     }
   ]
 }
