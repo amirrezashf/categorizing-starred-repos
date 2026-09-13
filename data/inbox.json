@@ -5386,6 +5386,21 @@
       "topics": [],
       "stars": 11,
       "readme_snippet": "# Barghak ⚡\n\n**Auto-shutdown watchdog for planned power outages.** Barghak fetches the planned-outage schedule of your electricity bill from the Bargheman (Saapa) portal, shows it on a live web dashboard, and safely shuts your Windows PC down a few minutes **before** the blackout starts — no more sudden power cuts killing your unsaved work.\n\n**English** | [فارسی](README.fa.md)\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)\n\n## Highlights\n\n- 📅 Fetches the outage schedule for today (Jalali) + the next 5 days\n- 🖥️ Live web dashboard: countdown to the next outage, 6-day schedule table, covered-systems list, logs, manual refresh button\n- ⏱️ Arms the Windows shutdown timer `lead_minutes` (default 5) before the outage starts\n- 🔁 Self-healing: the timer is re-armed after schedule changes or reboots, and cancelled if the outage is cancelled\n- 🧊 Rate-limit friendly: checks only on odd Tehran hours with a hard cap of 16 requests/day, and zero automatic requests onc"
+    },
+    {
+      "id": 1304084837,
+      "repo": "MohamadHFallah/all-in-one",
+      "url": "https://github.com/MohamadHFallah/all-in-one",
+      "description": "A full-stack Turborepo starter with React, NestJS, Prisma, PostgreSQL, OpenAPI, and type-safe API clients.",
+      "language": "JavaScript",
+      "topics": [
+        "nestjs",
+        "react",
+        "turboprop",
+        "typescript"
+      ],
+      "stars": 9,
+      "readme_snippet": "# All In One Turborepo Starter 🚀\n\nA modern full-stack monorepo starter built with Turborepo, featuring a type-safe architecture with shared packages between vite(frontend) and backend.\n\n## ✨ Highlights\n\n- 🔒 **Type-safe full stack** with TypeScript\n- 📦 **Shared types** between frontend and backend\n- 🏗️ **NestJS** with **Prisma ORM** for robust backend\n- 📚 **Swagger** auto-generated API documentation\n- 🔄 **Auto-generated API clients** for React from backend\n- 🎨 **Tailwind CSS** + **shadcn/ui** for beautiful UI components\n- ⚡ **TanStack Query** for powerful data fetching\n\n## 🛠️ Tech Stack\n\n### Backend\n- **[NestJS](https://nestjs.com/)** - Progressive Node.js framework\n- **[Prisma](https://www.prisma.io/)** - Next-generation ORM\n- **[Zod](https://zod.dev/)** - TypeScript-first schema validation\n- **[Swagger](https://swagger.io/)** - API documentation\n- **Database** PostgreSQL\n\n### vite\n- **[React](https://reactjs.org/)** with TypeScript\n- **[Tailwind CSS](https://tailwindcss.com/)** + **[s"
     }
   ]
 }
