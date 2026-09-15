@@ -5401,6 +5401,26 @@
       ],
       "stars": 9,
       "readme_snippet": "# All In One Turborepo Starter 🚀\n\nA modern full-stack monorepo starter built with Turborepo, featuring a type-safe architecture with shared packages between vite(frontend) and backend.\n\n## ✨ Highlights\n\n- 🔒 **Type-safe full stack** with TypeScript\n- 📦 **Shared types** between frontend and backend\n- 🏗️ **NestJS** with **Prisma ORM** for robust backend\n- 📚 **Swagger** auto-generated API documentation\n- 🔄 **Auto-generated API clients** for React from backend\n- 🎨 **Tailwind CSS** + **shadcn/ui** for beautiful UI components\n- ⚡ **TanStack Query** for powerful data fetching\n\n## 🛠️ Tech Stack\n\n### Backend\n- **[NestJS](https://nestjs.com/)** - Progressive Node.js framework\n- **[Prisma](https://www.prisma.io/)** - Next-generation ORM\n- **[Zod](https://zod.dev/)** - TypeScript-first schema validation\n- **[Swagger](https://swagger.io/)** - API documentation\n- **Database** PostgreSQL\n\n### vite\n- **[React](https://reactjs.org/)** with TypeScript\n- **[Tailwind CSS](https://tailwindcss.com/)** + **[s"
+    },
+    {
+      "id": 1340096701,
+      "repo": "DeveloperAmiri/personal-life-management-app",
+      "url": "https://github.com/DeveloperAmiri/personal-life-management-app",
+      "description": "🌿 LifeOS — all-in-one personal management app: tasks, habits, goals, journal, calendar & focus timer. Next.js + Postgres",
+      "language": "TypeScript",
+      "topics": [
+        "drizzle-orm",
+        "fullstack",
+        "habit-tracker",
+        "nextjs",
+        "postgresql",
+        "productivity",
+        "tailwindcss",
+        "task-management",
+        "typescript"
+      ],
+      "stars": 9,
+      "readme_snippet": "<div align=\"center\">\n\n# 🌿 LifeOS — Personal Life Management App\n\n**Tasks, habits, goals, notes, journal, calendar & focus timer — one calm dashboard for your whole life.**\n\n![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js&logoColor=white)\n![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)\n![Postgres](https://img.shields.io/badge/PostgreSQL-Drizzle-4169E1?logo=postgresql&logoColor=white)\n![Tailwind](https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss&logoColor=white)\n![License](https://img.shields.io/badge/license-MIT-green)\n[![CI](https://github.com/DeveloperAmiri/personal-life-management-app/actions/workflows/ci.yml/badge.svg)](https://github.com/DeveloperAmiri/personal-life-management-app/actions/workflows/ci.yml)\n\n![Dashboard](./screenshots/dashboard.png)\n\n</div>\n\n---\n\n## ✨ Features\n\n| Area | What you get |\n|---|---|\n| ✅ **Tasks** | Projects, priorities, due dates, full CRUD API |\n| 🔁 **Habits** | Daily lo"
     }
   ]
 }
