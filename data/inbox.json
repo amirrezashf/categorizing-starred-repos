@@ -5421,6 +5421,37 @@
       ],
       "stars": 9,
       "readme_snippet": "<div align=\"center\">\n\n# 🌿 LifeOS — Personal Life Management App\n\n**Tasks, habits, goals, notes, journal, calendar & focus timer — one calm dashboard for your whole life.**\n\n![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js&logoColor=white)\n![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)\n![Postgres](https://img.shields.io/badge/PostgreSQL-Drizzle-4169E1?logo=postgresql&logoColor=white)\n![Tailwind](https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss&logoColor=white)\n![License](https://img.shields.io/badge/license-MIT-green)\n[![CI](https://github.com/DeveloperAmiri/personal-life-management-app/actions/workflows/ci.yml/badge.svg)](https://github.com/DeveloperAmiri/personal-life-management-app/actions/workflows/ci.yml)\n\n![Dashboard](./screenshots/dashboard.png)\n\n</div>\n\n---\n\n## ✨ Features\n\n| Area | What you get |\n|---|---|\n| ✅ **Tasks** | Projects, priorities, due dates, full CRUD API |\n| 🔁 **Habits** | Daily lo"
+    },
+    {
+      "id": 1211139949,
+      "repo": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "architecture-as-code",
+        "architecture-diagram",
+        "claude-skill",
+        "code-visualization",
+        "codex",
+        "coding-agents",
+        "data-flow-diagram",
+        "deepseek-harness",
+        "developer-tools",
+        "diagram-as-code",
+        "diagrams",
+        "diagrams-as-code",
+        "dsh-plugin",
+        "mermaid-alternative",
+        "opencode",
+        "sequence-diagram",
+        "software-architecture",
+        "system-design",
+        "text-to-diagram"
+      ],
+      "stars": 66809,
+      "readme_snippet": "<p align=\"center\">\n  <strong>English</strong> · <a href=\"./README_ZH.md\">简体中文</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/31352?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-31352\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/31352\" alt=\"Archify on Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n![Archify product preview](docs/assets/archify-readme-hero.png)\n\n# Archify\n\n**Turn a codebase or system description into a polished, interactive system map — directly in chat.**\n\nArchify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce typed JSON IR; Archify deterministically compiles it into HTML/SVG.\n\n- **Open it and present** — five diagram types, four presets, dark/light themes, built-in brand marks, and finite motion\n- **Review architecture changes before merge** — compare two validated snapshots as Before / Del"
     }
   ]
 }
