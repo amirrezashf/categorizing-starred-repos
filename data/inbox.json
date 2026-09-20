@@ -5452,6 +5452,29 @@
       ],
       "stars": 66809,
       "readme_snippet": "<p align=\"center\">\n  <strong>English</strong> · <a href=\"./README_ZH.md\">简体中文</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/31352?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-31352\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/31352\" alt=\"Archify on Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n![Archify product preview](docs/assets/archify-readme-hero.png)\n\n# Archify\n\n**Turn a codebase or system description into a polished, interactive system map — directly in chat.**\n\nArchify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce typed JSON IR; Archify deterministically compiles it into HTML/SVG.\n\n- **Open it and present** — five diagram types, four presets, dark/light themes, built-in brand marks, and finite motion\n- **Review architecture changes before merge** — compare two validated snapshots as Before / Del"
+    },
+    {
+      "id": 1264883757,
+      "repo": "peetzweg/opendisplay",
+      "url": "https://github.com/peetzweg/opendisplay",
+      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "language": "Swift",
+      "topics": [
+        "duet-display",
+        "external-display",
+        "ipad",
+        "iphone",
+        "macos",
+        "screen-extension",
+        "screencapturekit",
+        "second-monitor",
+        "sidecar",
+        "swift",
+        "videotoolbox",
+        "virtual-display"
+      ],
+      "stars": 4607,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"public/logo.png\" width=\"128\" alt=\"OpenDisplay app icon\" />\n\n# OpenDisplay\n\n**Turn your spare Apple devices into second monitors for your Mac — free, open source, no subscription.**\n\niPhone, iPad, and spare Macs. A self-hosted\nalternative to Apple Sidecar, Duet Display, and Luna Display: true extended\ndisplay (not just mirroring), Retina-sharp, over USB or WiFi, with touch and\nscroll input.\n\n[Website](https://peetzweg.github.io/opendisplay/) · [Quick start](#quick-start) · [How it works](#how-it-works) · [FAQ](#faq) · [Contributing](#contributing)\n\n<br />\n\n<a href=\"https://ko-fi.com/peetzweg\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/support_me_on_kofi_beige.png\" />\n    <img src=\"assets/support_me_on_kofi_dark.png\" width=\"256px\" alt=\"Support me on Ko-fi\" />\n  </picture>\n</a>\n\n</div>\n\n---\n\n## Why OpenDisplay exists\n\nTurning an iPhone or iPad into an external display for a Mac is a solved\nproblem — but every existing optio"
     }
   ]
 }
