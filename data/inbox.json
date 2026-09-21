@@ -5475,6 +5475,40 @@
       ],
       "stars": 4607,
       "readme_snippet": "<div align=\"center\">\n\n<img src=\"public/logo.png\" width=\"128\" alt=\"OpenDisplay app icon\" />\n\n# OpenDisplay\n\n**Turn your spare Apple devices into second monitors for your Mac — free, open source, no subscription.**\n\niPhone, iPad, and spare Macs. A self-hosted\nalternative to Apple Sidecar, Duet Display, and Luna Display: true extended\ndisplay (not just mirroring), Retina-sharp, over USB or WiFi, with touch and\nscroll input.\n\n[Website](https://peetzweg.github.io/opendisplay/) · [Quick start](#quick-start) · [How it works](#how-it-works) · [FAQ](#faq) · [Contributing](#contributing)\n\n<br />\n\n<a href=\"https://ko-fi.com/peetzweg\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/support_me_on_kofi_beige.png\" />\n    <img src=\"assets/support_me_on_kofi_dark.png\" width=\"256px\" alt=\"Support me on Ko-fi\" />\n  </picture>\n</a>\n\n</div>\n\n---\n\n## Why OpenDisplay exists\n\nTurning an iPhone or iPad into an external display for a Mac is a solved\nproblem — but every existing optio"
+    },
+    {
+      "id": 1363004891,
+      "repo": "homayounmmdy/pure_brew",
+      "url": "https://github.com/homayounmmdy/pure_brew",
+      "description": "a coffeeshop website built entirely from scratch. no react. no angular. no vue. no svelte. no tailwind. no bootstrap. no build step. no node_modules the size of a small planet.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 2,
+      "readme_snippet": "# ☕ Pure Brew\n\n> *coffee is not a place. coffee is a feeling.*\n\na coffeeshop website built entirely from scratch. no react. no angular. no vue. no svelte. no tailwind. no bootstrap. no build step. no node_modules the size of a small planet.\n\njust html. then css. then javascript. one line at a time.\n\n## 🎯 why this exists\n\nthis project is a joke that turned into a learning exercise.\n\nthe web used to be simple. you wrote a file, you opened it in a browser, it worked. somewhere along the way we forgot that. this project is an attempt to remember.\n\nevery decision is made by hand. every pixel is earned. every feature is understood before it is added.\n\n## 📍 where to find us\n\n```\nthe solar system\n    earth\n        the place you love\n```\n\n(if you do not know which place that is yet, close your eyes. you will know.)\n\n## 🚀 how to run\n\nthere is no `npm install`. there is no `npm run dev`. there is no `docker compose up`.\n\njust:\n\n```bash\nopen index.html\n```\n\nor double-click it. or drag it into a br"
+    },
+    {
+      "id": 1374081954,
+      "repo": "TronIsHere/vibafarsiui",
+      "url": "https://github.com/TronIsHere/vibafarsiui",
+      "description": "",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 84,
+      "readme_snippet": "<div dir=\"rtl\">\n\n# وایب‌فارسی\n\n**کامپوننت‌های فارسی، برای توسعه‌دهنده‌ها و وایب‌کدرها.**\n\nابزارهای هوش مصنوعی و کتابخانه‌های انگلیسی به انگلیسی فکر می‌کنن: فونت Inter می‌گذارن، اعداد را لاتین می‌نویسن و دکمه را چپ‌چین می‌کنن. وایب‌فارسی یک رجیستری از کامپوننت‌های React + Tailwind هست. همه‌شون از پایه راست‌چین هستن و فونت، اعداد فارسی، تومان و تقویم شمسی داخل خودشون هست.\n\nوایب‌فارسی پکیج npm نیست. فایل هر کامپوننت داخل پروژه‌تون نوشته میشه و از همان لحظه مال شماست. هر کامپوننت دو خروجی داره: کد TypeScript که در پروژه می‌گذارید، و یک پرامپت انگلیسی که قوانین راست‌چین و فارسی داخلشه و به Cursor یا Claude می‌دید. سرور MCP هم داره تا ادیتور خودش این قوانین و کدها را بخونه و لازم نباشه چیزی یادآوری کنید.\n\nسایت و مستندات: [vibefarsi.ir](https://vibefarsi.ir)\n\nNext.js و Vite · Tailwind v4 · بدون وابستگی اضافه · رایگان و متن‌باز\n\n</div>\n\n> Persian RTL components for React + Tailwind. Copy the file, run `npx vibefarsi add`, or let Cursor / Claude Code pull it over MCP. The rest of this README is"
+    },
+    {
+      "id": 1347729130,
+      "repo": "Aliorithm/ReiMap",
+      "url": "https://github.com/Aliorithm/ReiMap",
+      "description": "مسیریاب مترو تهران با نقشه تعاملی",
+      "language": "TypeScript",
+      "topics": [
+        "ai-integrated",
+        "maplibre",
+        "tehran-metro"
+      ],
+      "stars": 10,
+      "readme_snippet": "\n\n\n\n# ReMap · ری‌مپ\n\n**Persian-first Tehran metro router** — a dark-mode MapLibre map, transfer-aware Dijkstra routing over the full Tehran network, saved places, and an LLM assistant that actually *drives the map*.\n\n[![CI](https://github.com/Aliorithm/reimap/actions/workflows/ci.yml/badge.svg)](https://github.com/Aliorithm/reimap/actions/workflows/ci.yml)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)\n![Next.js](https://img.shields.io/badge/Next.js-15-black)\n![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)\n\nLive demo: **https://reimap.vercel.app**\n\n🎬 **Demo video:** [ReiMap.mp4](public/ReiMap.mp4)\n\n[<video src=\"public/ReiMap.mp4\" width=\"720\" controls preload=\"metadata\"></video>](https://github.com/user-attachments/assets/9c4775a4-8710-44f7-b173-b4059c96507a)\n\n## Features\n\n- **Routing that understands transfers.** Dijkstra runs over `(station, line)` states, so changing lines costs a penalty and routes prefer staying on one line — exactly h"
     }
   ]
 }
