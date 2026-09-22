@@ -5509,6 +5509,95 @@
       ],
       "stars": 10,
       "readme_snippet": "\n\n\n\n# ReMap · ری‌مپ\n\n**Persian-first Tehran metro router** — a dark-mode MapLibre map, transfer-aware Dijkstra routing over the full Tehran network, saved places, and an LLM assistant that actually *drives the map*.\n\n[![CI](https://github.com/Aliorithm/reimap/actions/workflows/ci.yml/badge.svg)](https://github.com/Aliorithm/reimap/actions/workflows/ci.yml)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)\n![Next.js](https://img.shields.io/badge/Next.js-15-black)\n![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)\n\nLive demo: **https://reimap.vercel.app**\n\n🎬 **Demo video:** [ReiMap.mp4](public/ReiMap.mp4)\n\n[<video src=\"public/ReiMap.mp4\" width=\"720\" controls preload=\"metadata\"></video>](https://github.com/user-attachments/assets/9c4775a4-8710-44f7-b173-b4059c96507a)\n\n## Features\n\n- **Routing that understands transfers.** Dijkstra runs over `(station, line)` states, so changing lines costs a penalty and routes prefer staying on one line — exactly h"
+    },
+    {
+      "id": 1312117365,
+      "repo": "amirabbas-gh/tehran-metro",
+      "url": "https://github.com/amirabbas-gh/tehran-metro",
+      "description": "Interactive Tehran Metro map presented as an applied graph theory project for the Discrete Mathematics course at the College of Farabi, University of Tehran.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 30,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/ut-logo.png\" alt=\"University of Tehran\" width=\"140\" />\n</p>\n\n<h1 align=\"center\">Tehran Metro Map — Discrete Mathematics Project</h1>\n\n<p align=\"center\">\n  <strong>College of Farabi, University of Tehran</strong><br />\n  B.Sc. Computer Engineering · Discrete Mathematics\n</p>\n\nInteractive Tehran Metro map (React + Vite) presented as an applied **graph theory** project for the Discrete Mathematics course at the **College of Farabi, University of Tehran**.\n\n## Mathematical model\n\nThe metro network is an **undirected graph** \\(G = (V, E)\\):\n\n| Symbol | Meaning |\n|--------|---------|\n| \\(V\\) | Stations (vertices) |\n| \\(E\\) | Rail links between consecutive stations on a line (edges) |\n\nTrains run both ways, so each link is an undirected edge. Transfer stations are vertices of degree \\(> 2\\) that connect multiple lines.\n\n## Graph representation\n\nStored as an **adjacency list** (`src/lib/graph.ts` → `buildAdjacencyList`).\n\nThe metro graph is **sparse** (\\(|E|"
+    },
+    {
+      "id": 1352106753,
+      "repo": "md786-dotcom/claude-to-wordpress-native",
+      "url": "https://github.com/md786-dotcom/claude-to-wordpress-native",
+      "description": "Claude Code toolchain/skill that emits Hello Elementor child themes with Elementor Free pages",
+      "language": "TypeScript",
+      "topics": [
+        "claude-code",
+        "cli",
+        "elementor",
+        "hello-elementor",
+        "hello-elementor-child",
+        "hello-elementor-child-theme",
+        "looking-for-contributors",
+        "looking-for-maintainer",
+        "npx",
+        "wordpress"
+      ],
+      "stars": 8,
+      "readme_snippet": "<a id=\"readme-top\"></a>\n\n# Claude-to-WordPress Native\n\nOffline **Claude Code** toolchain that emits a Hello Elementor **child theme** ZIP. A companion plugin (CTW Native) installs the free stack and imports pages so **Edit with Elementor** works.\n\n[![npm][npm-shield]][npm-url]\n[![License][license-shield]][license-url]\n[![WordPress][wp-shield]][wp-url]\n[![Elementor][elementor-shield]][elementor-url]\n[![WooCommerce][woo-shield]][woo-url]\n[![X @mdafanulh][x-shield]][x-url]\n[![OpenSSF Scorecard][scorecard-shield]][scorecard-url]\n\n[Getting started](#getting-started) · [CLI reference](docs/cli.md) · [Issues](https://github.com/md786-dotcom/claude-to-wordpress-native/issues) · [Contributing](CONTRIBUTING.md)\n\nClaude Code only. Claude does not edit the site after install.\n\n> **Disclaimer:** Theme quality depends on the Claude model and the prompt. This tool is a bridge between Claude output and Elementor Free editing.\n\n<details>\n<summary>Table of contents</summary>\n\n- [About](#about)\n- [Built "
+    },
+    {
+      "id": 1133707766,
+      "repo": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "language": "Go",
+      "topics": [],
+      "stars": 51018,
+      "readme_snippet": "<div align=\"center\">\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/assets/logo-dark.svg\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/assets/logo-light.svg\">\n  <img alt=\"Multica\" src=\"docs/assets/logo-light.svg\" width=\"50\">\n</picture>\n\n# Multica\n\n**Agents that show up on the board.**\n\nMultica is an open-source workspace where you assign work to AI coding agents the way you'd\nassign it to a teammate — they pick up the issue, report progress, raise blockers, and hand it\nback for review. Self-hostable, works with 26 agent CLIs, no lock-in.\n\n[![CI](https://github.com/multica-ai/multica/actions/workflows/ci.yml/badge.svg)](https://github.com/multica-ai/multica/actions/workflows/ci.yml)\n[![Release](https://img.shields.io/github/v/release/multica-ai/multica?style=flat)](https://github.com/multica-ai/multica/releases)\n[![GitHub stars](https://img.shields.io/github/stars/multica-ai/multica?style=flat)](https://github.com/multica-ai/multica/stargazers)\n["
+    },
+    {
+      "id": 1370916260,
+      "repo": "mmdju/digikala-mcp",
+      "url": "https://github.com/mmdju/digikala-mcp",
+      "description": "MCP server for Digikala: search, compare and price-check products on Iran's largest marketplace. Read-only, no API key. 16 tools, hosted on Cloudflare Workers.",
+      "language": "JavaScript",
+      "topics": [
+        "cloudflare-workers",
+        "digikala",
+        "iran",
+        "mcp",
+        "model-context-protocol",
+        "persian"
+      ],
+      "stars": 100,
+      "readme_snippet": "# Digikala MCP - Shop intelligence for AI agents\n\n![Digikala MCP banner](assets/digikala-mcp.png)\n\nA public MCP server that gives AI agents **real Digikala knowledge**: search, **prices in Toman**, discounts, ratings, sellers, reviews, deals and bestsellers. **Read-only, no key needed.**\n\n**Live endpoint:** `https://digikala-mcp.mmdju.workers.dev/mcp` (Streamable HTTP, stateless)\n\n**[نسخه فارسی](README_FA.md)** · **[Examples](examples/sample-calls.md)** · **[Tool reference](docs/tools.md)** · **[Changelog](CHANGELOG.md)**\n\n## Connect in 30 seconds\n\nAny MCP client, **one URL**. Cline / Cursor / Claude Desktop (`mcp.json` style):\n\n```json\n{\n  \"mcpServers\": {\n    \"digikala\": { \"url\": \"https://digikala-mcp.mmdju.workers.dev/mcp\" }\n  }\n}\n```\n\nThen just talk: **\"best Samsung phone under 20 million Toman\"**, **\"is this laptop any good?\"**, **\"what is on deal today?\"**, **\"what is popular in Iran right now?\"**.\n\nAgents running in a browser work too - the endpoint answers CORS preflights (`OPTI"
+    },
+    {
+      "id": 1197515131,
+      "repo": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": "Not specified",
+      "topics": [
+        "awesome-list",
+        "design-md",
+        "design-system",
+        "design-tokens",
+        "figma",
+        "google-stitch",
+        "landing-page",
+        "vibe-coding",
+        "vibe-design",
+        "vibecoding"
+      ],
+      "stars": 117077,
+      "readme_snippet": "\n<a href=\"https://github.com/VoltAgent/voltagent\">\n     <img width=\"1500\"  alt=\"claude-skills\" src=\"https://cdn.voltagent.dev/awesome-repo/logo.json.svg\" />\n</a>\n\n\n<br/>\n<br/>\n\n<div align=\"center\">\n    <strong>Curated collection of DESIGN.md analysis by developer focused websites.</strong>\n    <br />\n    <br />\n\n</div>\n\n<div align=\"center\">\n\n[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-73-10b981?style=classic)\n[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-design-md?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-design-md)\n[![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)\n\n</div>\n</div>\n\n# Awesome DESIGN.md\n\nCopy a DESIGN.md into your project, tell your AI agent “build me a page that looks like this,” and generate high-quality UI t"
+    },
+    {
+      "id": 1370589217,
+      "repo": "ParsaBordbar/connect2mp4",
+      "url": "https://github.com/ParsaBordbar/connect2mp4",
+      "description": "A simple scrip, TUI app in python that helps you compile, output.zip of an adobe connect meet with slides into a mp4 file.",
+      "language": "Python",
+      "topics": [],
+      "stars": 16,
+      "readme_snippet": "<img width=\"699\" height=\"275\" alt=\"image\" src=\"https://github.com/user-attachments/assets/2f485d90-81c4-477b-84ae-2f1521d228c7\" />\n\n# connect2mp4\n\nTurn an **Adobe Connect** class recording into a single, normal **MP4** you can watch anywhere,\nscrub through, speed up, or keep offline.\n\nAdobe Connect recordings are not video files. They are a zip of audio streams, an XML timeline,\nand a log of what happened in the share pod (slide changes, pen strokes). connect2mp4 replays that\ntimeline and encodes it:\n\n- **Slides + whiteboard + audio** when the teacher shared a PDF/PPTX and drew on it.\n- **Screen share + audio** when the teacher shared their screen (no slides needed).\n\n```\nconnect2mp4 https://vc2.shirazu.ac.ir/pquxl04g15ys/\n# -> connect_out/pquxl04g15ys.mp4\n```\n\n---\n\n## Table of contents\n\n1. [Install](#install)\n2. [Quick start](#quick-start)\n3. [Interactive mode (recommended)](#interactive-mode-recommended)\n4. [Command line mode](#command-line-mode)\n5. [Slides: where they come from](#sl"
     }
   ]
 }
