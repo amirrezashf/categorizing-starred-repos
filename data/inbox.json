@@ -5598,6 +5598,24 @@
       "topics": [],
       "stars": 16,
       "readme_snippet": "<img width=\"699\" height=\"275\" alt=\"image\" src=\"https://github.com/user-attachments/assets/2f485d90-81c4-477b-84ae-2f1521d228c7\" />\n\n# connect2mp4\n\nTurn an **Adobe Connect** class recording into a single, normal **MP4** you can watch anywhere,\nscrub through, speed up, or keep offline.\n\nAdobe Connect recordings are not video files. They are a zip of audio streams, an XML timeline,\nand a log of what happened in the share pod (slide changes, pen strokes). connect2mp4 replays that\ntimeline and encodes it:\n\n- **Slides + whiteboard + audio** when the teacher shared a PDF/PPTX and drew on it.\n- **Screen share + audio** when the teacher shared their screen (no slides needed).\n\n```\nconnect2mp4 https://vc2.shirazu.ac.ir/pquxl04g15ys/\n# -> connect_out/pquxl04g15ys.mp4\n```\n\n---\n\n## Table of contents\n\n1. [Install](#install)\n2. [Quick start](#quick-start)\n3. [Interactive mode (recommended)](#interactive-mode-recommended)\n4. [Command line mode](#command-line-mode)\n5. [Slides: where they come from](#sl"
+    },
+    {
+      "id": 960997485,
+      "repo": "LaraPire/laravel-slugable",
+      "url": "https://github.com/LaraPire/laravel-slugable",
+      "description": "Simple and lightweight with just one HasSlugable in the model",
+      "language": "PHP",
+      "topics": [
+        "laravel",
+        "laravel-framework",
+        "laravel-package",
+        "laravel-sluggable",
+        "slug",
+        "slug-generator",
+        "slugable"
+      ],
+      "stars": 10,
+      "readme_snippet": "# Laravel Slugable\n\nLaravel Slugable is a lightweight Laravel trait that automatically generates slugs from model fields like `title`, `name`, or any custom source — and stores it in a customizable destination field such as `slug`, etc.\n\nPerfect for blogs, e-commerce, CMS, or any app that needs clean, readable, SEO-friendly URLs with multi-language support.\n\n## Features\n\n- Auto-generate slug on model creation\n- Optional re-generation on model update\n- Customizable source and destination fields\n- Multi-language support (Persian, Arabic, English)\n- Automatic conversion of non-English numbers\n- Special character cleaning for each language\n- Unique slug enforcement with counter\n- Max length enforcement\n- No external dependencies\n- Static helper method for non-model usage\n- Thread-safe implementation\n- Type-safe operations\n\n## Installation\n\nInstall Package:\n\n```bash\ncomposer require rayiumir/laravel-slugable\n```\n\nAfter Publish Files:\n\n```bash\nphp artisan vendor:publish --provider=\"Rayiumir\\"
     }
   ]
 }
