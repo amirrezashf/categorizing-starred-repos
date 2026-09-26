@@ -5616,6 +5616,90 @@
       ],
       "stars": 10,
       "readme_snippet": "# Laravel Slugable\n\nLaravel Slugable is a lightweight Laravel trait that automatically generates slugs from model fields like `title`, `name`, or any custom source — and stores it in a customizable destination field such as `slug`, etc.\n\nPerfect for blogs, e-commerce, CMS, or any app that needs clean, readable, SEO-friendly URLs with multi-language support.\n\n## Features\n\n- Auto-generate slug on model creation\n- Optional re-generation on model update\n- Customizable source and destination fields\n- Multi-language support (Persian, Arabic, English)\n- Automatic conversion of non-English numbers\n- Special character cleaning for each language\n- Unique slug enforcement with counter\n- Max length enforcement\n- No external dependencies\n- Static helper method for non-model usage\n- Thread-safe implementation\n- Type-safe operations\n\n## Installation\n\nInstall Package:\n\n```bash\ncomposer require rayiumir/laravel-slugable\n```\n\nAfter Publish Files:\n\n```bash\nphp artisan vendor:publish --provider=\"Rayiumir\\"
+    },
+    {
+      "id": 1363956478,
+      "repo": "m4tinbeigi-official/CafeBloggers.github.io",
+      "url": "https://github.com/m4tinbeigi-official/CafeBloggers.github.io",
+      "description": "",
+      "language": "HTML",
+      "topics": [],
+      "stars": 8,
+      "readme_snippet": "<!-- DevSponsors Badges -->\n<p align=\"center\">\n  <a href=\"https://devsponsors.github.io\"><img src=\"https://img.shields.io/badge/DevSponsors-Verified_OSS-6366f1?style=for-the-badge&logo=github\" alt=\"DevSponsors Verified\"></a>\n  <a href=\"https://devsponsors.github.io\"><img src=\"https://img.shields.io/badge/Sponsor-DevSponsors_Hub-emerald?style=for-the-badge&logo=github-sponsors\" alt=\"DevSponsors Sponsor\"></a>\n  <a href=\"https://devsponsors.github.io/mediakit.html\"><img src=\"https://img.shields.io/badge/Infrastructure-DevSponsors_Cloud-ec4899?style=for-the-badge&logo=server\" alt=\"DevSponsors Cloud\"></a>\n</p>\n\n# Iran Open Cafe & Screening Venues Data API\nدیتابیس آزاد و جامع کافه‌ها، سالن‌های اکران و ایونت‌روم‌های ایران با بیش از ۱۹,۸۰۰ کافه و ۵,۷۰۰ مکان دارای ویدیو پروژکتور، منوی آنلاین دیجیتال، شماره تماس و اطلاعات اینستاگرام.\n\nطراحی شده برای استفاده آسان، سریع و بدون نیاز به کلید دسترسی (Free Public API / Zero-Auth / CORS-Enabled) در کلیه پروژه‌های وب، موبایل، فریمورک‌های ری‌اکت، ویو، پا"
+    },
+    {
+      "id": 950657002,
+      "repo": "ParsaBordbar/get-git",
+      "url": "https://github.com/ParsaBordbar/get-git",
+      "description": "Flash Card system for learning Git and Github!",
+      "language": "TypeScript",
+      "topics": [
+        "git",
+        "git-tutorial",
+        "github",
+        "learning",
+        "open-source",
+        "platform"
+      ],
+      "stars": 38,
+      "readme_snippet": "<img width=\"1470\" height=\"956\" alt=\"1405-06-12_18-26-45\" src=\"https://github.com/user-attachments/assets/c5e8dad4-84e9-4497-b3cd-36e09e344355\" />\n\n# Get-Git\n\nGet-Git is an open-source React app that teaches Git with flash cards. It is a sub-project of a broader open-source learning platform focused on teaching the 20% of a topic you need for 80% of real-world workflows.\n\nRead it live at [parsabordbar.github.io/get-git](https://parsabordbar.github.io/get-git/).\n\n## Features\n\n- **Flash-card series.** Eleven short series, each a scrolling deck of cards with a title, tags, markdown body, and copyable commands. A few minutes each.\n- **Progress tracking.** Every series ends with a done checkbox. Finished series get a check mark on the home page and in the menu, and the home page shows how many are done with a reset link. Progress lives in your browser's local storage; nothing is sent anywhere.\n- **Continue where you left off.** The home page button starts you on Basics, then moves to the nex"
+    },
+    {
+      "id": 1338965458,
+      "repo": "MNSH-Nexo/NexoShield",
+      "url": "https://github.com/MNSH-Nexo/NexoShield",
+      "description": "🛡️ Professional Server Hardening & Anti-DDoS Toolkit with optional SOCKS5 Proxy",
+      "language": "Shell",
+      "topics": [
+        "anti-ddos",
+        "bash",
+        "cloudflare",
+        "ddos-protection",
+        "fail2ban",
+        "firewall",
+        "iptables",
+        "linux-security",
+        "network-security",
+        "proxy-manager",
+        "security",
+        "server-hardening",
+        "socks5",
+        "socks5-proxy",
+        "ubuntu"
+      ],
+      "stars": 15,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"logo.png\" width=\"120\" alt=\"NexoShield Logo\" />\n\n# NexoShield\n\n**Professional Server Hardening & Anti-DDoS Toolkit**\n\n*Secure any Ubuntu server in minutes — with optional SOCKS5 proxy management*\n\n<img src=\"https://img.shields.io/badge/Platform-Ubuntu%2020%2B-E95420?style=flat-square&logo=ubuntu&logoColor=white\" alt=\"Platform\"/>\n<img src=\"https://img.shields.io/badge/Shell-Bash%205%2B-4EAA25?style=flat-square&logo=gnubash&logoColor=white\" alt=\"Shell\"/>\n<img src=\"https://img.shields.io/badge/Version-3.0-7c3aed?style=flat-square\" alt=\"Version\"/>\n<img src=\"https://img.shields.io/badge/License-MIT-1a73e8?style=flat-square\" alt=\"License\"/>\n\n</div>\n\n---\n\n## What is NexoShield?\n\nNexoShield is a single-script toolkit that transforms a bare Ubuntu server into a hardened, DDoS-resistant machine in under 5 minutes.\n\nYou can use it purely for **server security** — or also enable the built-in **SOCKS5 proxy manager** if needed.\n\n---\n\n## Credits & Contributors\n\n<div al"
+    },
+    {
+      "id": 1386778170,
+      "repo": "amitshekhariitbhu/ai-system-design",
+      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+      "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "language": "Markdown",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-system",
+        "ai-system-design",
+        "ai-systems",
+        "ai-systems-design",
+        "llm",
+        "system-design",
+        "system-design-interview"
+      ],
+      "stars": 156,
+      "readme_snippet": "<p align=\"center\">\n    <img alt=\"AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step\" src=\"https://github.com/amitshekhariitbhu/ai-system-design/blob/main/assets/banner.png\">\n</p>\n\n# AI System Design\n\n**AI System Design - A complete guide to learn AI System Design step by step - from LLM inference, GPUs, KV Cache, and caching to RAG, Vector Databases, AI Agents, MCP, Multi-Agent Systems, Voice AI, Guardrails, Evaluation, Observability, Cost Optimization, and a step-by-step framework to crack any AI System Design interview. Everything in one place, explained in simple words, with detailed blogs for every deep dive.**\n\n> This AI System Design guide is helpful for anyone who wants to become:\n>\n> - AI Engineer\n> - Gen AI Engineer\n> - LLM Engineer\n> - Agentic AI Engineer\n> - AI Agent Engineer\n> - Forward Deployed Engineer\n> - AI Solutions Architect\n> - AI Platform Engineer\n> - Applied AI Engineer\n> - Machine Learning Engineer\n> - MLOps Engineer\n>"
+    },
+    {
+      "id": 1347947915,
+      "repo": "HajibagheriLabs/Web-Vibe-Security",
+      "url": "https://github.com/HajibagheriLabs/Web-Vibe-Security",
+      "description": "Deterministic security guardrails, drop-in agent configs, and audit tools for AI-generated web apps. Eliminates client secret leaks, broken database RLS, IDOR, injection vectors, and supply chain slopsquatting across Claude Code, Cursor, Codex, and vibe-coding workflows.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 14,
+      "readme_snippet": "<div align=\"center\">\n\n# Web-Vibe-Security\n\n**Deterministic security guardrails for AI-generated web applications.**\n\nDrop-in agent rules · modular security specifications · static analysis · dependency verification · adversarial audit loop\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)\n[![Modules](https://img.shields.io/badge/modules-4-brightgreen.svg)](modules/)\n[![Semgrep rules](https://img.shields.io/badge/semgrep%20rules-27-orange.svg)](skills/semgrep-rules.yml)\n\nBuilt and maintained by **Hadi Hajibagheri** — [@HajibagheriLabs](https://github.com/HajibagheriLabs)\n\n</div>\n\n---\n\n## The problem\n\n\"Vibe coding\" — building software by prompting a language model in natural language instead of\nwriting the code yourself — collapses the cost of shipping a web application. It does not collapse\nthe cost of shipping a *secure* one.\n\nThe reason is structural, not incidental. Language models are trained to produce code that\n**works**, optimizing for functional comp"
     }
   ]
 }
