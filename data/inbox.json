@@ -5700,6 +5700,114 @@
       "topics": [],
       "stars": 14,
       "readme_snippet": "<div align=\"center\">\n\n# Web-Vibe-Security\n\n**Deterministic security guardrails for AI-generated web applications.**\n\nDrop-in agent rules · modular security specifications · static analysis · dependency verification · adversarial audit loop\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)\n[![Modules](https://img.shields.io/badge/modules-4-brightgreen.svg)](modules/)\n[![Semgrep rules](https://img.shields.io/badge/semgrep%20rules-27-orange.svg)](skills/semgrep-rules.yml)\n\nBuilt and maintained by **Hadi Hajibagheri** — [@HajibagheriLabs](https://github.com/HajibagheriLabs)\n\n</div>\n\n---\n\n## The problem\n\n\"Vibe coding\" — building software by prompting a language model in natural language instead of\nwriting the code yourself — collapses the cost of shipping a web application. It does not collapse\nthe cost of shipping a *secure* one.\n\nThe reason is structural, not incidental. Language models are trained to produce code that\n**works**, optimizing for functional comp"
+    },
+    {
+      "id": 1366755221,
+      "repo": "mohammad-albarham/codenotch-mobile",
+      "url": "https://github.com/mohammad-albarham/codenotch-mobile",
+      "description": "Your coding assistant's usage limits, read off your Mac and shown on your phone. Expo / React Native client for Codenotch Phone Link.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 5,
+      "readme_snippet": "# Codenotch Mobile\n\nYour coding assistant's usage limits — Claude, Codex, GLM and friends — read off\nyour Mac and shown on your phone. Nothing leaves your local network.\n\n```\n┌──────────────────────────┐                              ┌────────────────────────┐\n│  Mac                     │   http://192.168.1.20:8788   │  Phone                 │\n│  Codenotch (Phone Link)  │ ◀───────────────────────────▶│  Expo / React Native   │\n│  reads provider usage    │   HMAC-signed, LAN only      │  rings · sessions      │\n└──────────────────────────┘                              └────────────────────────┘\n```\n\nThe Mac does all the reading. The phone is a viewer: it receives percentages,\nreset times and session states — never an API key or token.\n\n<p align=\"center\">\n  <img src=\"assets/screenshots/ios-rings.png\" alt=\"Rings screen on iOS\" width=\"300\">\n  &nbsp;&nbsp;\n  <img src=\"assets/screenshots/android-rings.png\" alt=\"Rings screen on Android\" width=\"300\">\n</p>\n\n<p align=\"center\"><sub>The Rings scree"
+    },
+    {
+      "id": 1284547026,
+      "repo": "aliinreallife/metto",
+      "url": "https://github.com/aliinreallife/metto",
+      "description": "Metto is a free, fast, bilingual web app for navigating the Tehran Metro ",
+      "language": "TypeScript",
+      "topics": [
+        "navigation",
+        "subway"
+      ],
+      "stars": 26,
+      "readme_snippet": "# metto — متو | Metro Route Planner\n\nmetto (متو) is a free, fast, bilingual (فارسی / English) web app for navigating metro systems — currently Tehran — live at **[metto.ir](https://metto.ir)**.\n\nFind the fastest route between any two stations with timetable-aware ETAs, browse all stations across 7 lines, find the nearest station by GPS or amenity, and share routes via link.\n\nBuilt by [aliinreallife](https://github.com/aliinreallife) · Metro data by [mostafa-kheibary/tehran-metro-data](https://github.com/mostafa-kheibary/tehran-metro-data)\n\n## Features\n\n- **Route planner** (`/`) — origin/destination search by station *or place name* (e.g. \"Iran Mall\" resolves to its nearest station), swap, geolocation origin, shareable URLs (`?from=tajrish&to=tehran-sadeghiyeh`)\n- **Timetable-aware ETA engine** — real departure/arrival propagation per leg (initial wait, ride, transfer walk + wait, train-change wait), station-specific transfer walks, Line 5 express trains, midnight-crossing + holiday-awa"
+    },
+    {
+      "id": 1387748855,
+      "repo": "Realjustawall/FlowNeo",
+      "url": "https://github.com/Realjustawall/FlowNeo",
+      "description": "Free Extension To Fix Google Flow Region Limit",
+      "language": "CSS",
+      "topics": [],
+      "stars": 18,
+      "readme_snippet": "# FlowNeo\n\nFlowNeo is a Chrome extension that provides a compact, modern control panel for the existing helper used on **Google Flow**. It lets you enable or disable the helper, open Google Flow, reload the active Flow tab, and inspect the current helper state from the popup.\n\n> **Independent project:** FlowNeo is not affiliated with, endorsed by, or sponsored by Google.\n\n## Highlights\n\n- Modern dark popup UI with the **Vazirmatn (Vazir)** typeface.\n- One-click helper enable/disable control.\n- Quick access to Google Flow.\n- Reload action for the active Flow tab.\n- Live status messages for active, armed, unavailable-spec, schema-mismatch, and reload-required states.\n- Manifest V3 extension architecture.\n- Branding and developer attribution set to **RealJustAWall**.\n\n## How it works\n\nFlowNeo registers a content script for `https://flow.google.com/*`. When the helper is enabled, the extension runs its existing Flow integration code on Google Flow pages and can patch the relevant Flow conf"
+    },
+    {
+      "id": 932742512,
+      "repo": "Jetexir/jetexir-wp-plugin",
+      "url": "https://github.com/Jetexir/jetexir-wp-plugin",
+      "description": "Jetexir is the enhancement suite built for independent WooCommerce store owners who have outgrown the default setup but are not ready to commission a custom build — typically shops running a focused catalog of 50–5,000 products and processing anywhere from their first few hundred to tens of thousands of orders.",
+      "language": "PHP",
+      "topics": [
+        "woocommerce",
+        "wordpress"
+      ],
+      "stars": 3,
+      "readme_snippet": "# Jetexir\n\n## Download\n\nProduction-ready version from WordPress.org: https://wordpress.org/plugins/jetexir/\n\nJetexir integrates with WooCommerce to help you further enhance your website.\n\nFree forever and open source (GPLv3). All 24 add-ons are included at no cost, with no premium tier and no hidden upsells.\n\n## Addons\n\n### Product (13)\n\n* Fast Search: live product search dropdown for WordPress and WooCommerce search forms.\n* Call for price: show a Call button on products that have no price set.\n* Products Compare: let customers compare products side by side on a dedicated compare page.\n* Product Extra Fields: add priced extra product fields saved as order item meta data.\n* Products FAQ: add an accordion FAQ section to individual product pages.\n* Product Price Variation: advanced settings for WooCommerce variable product pricing.\n* Product Quantity: quantity stepper buttons with min, max, and step limits.\n* Related Products: show related products by category, tag, attribute, or manual "
+    },
+    {
+      "id": 1194890808,
+      "repo": "Teylersf/x-video-downloader",
+      "url": "https://github.com/Teylersf/x-video-downloader",
+      "description": "Chrome extension to bulk download videos from X/Twitter. Auto-scroll your feed, bookmarks, or any page. Download all bookmarked videos, NSFW/18+ content, For You & Following. One-click download button on every tweet. Highest quality MP4. Manifest V3, no dependencies.",
+      "language": "JavaScript",
+      "topics": [
+        "bookmarks-downloader",
+        "browser-extension",
+        "bulk-downloader",
+        "chrome-extension",
+        "download-videos",
+        "manifest-v3",
+        "nsfw-downloader",
+        "save-twitter-videos",
+        "social-media-downloader",
+        "twitter",
+        "twitter-bookmarks",
+        "twitter-downloader",
+        "twitter-media-downloader",
+        "twitter-scraper",
+        "twitter-video",
+        "twitter-video-downloader",
+        "video-downloader",
+        "x-downloader",
+        "x-twitter",
+        "x-video-downloader"
+      ],
+      "stars": 22,
+      "readme_snippet": "# X Video Downloader - Chrome Extension\n\n**Bulk download videos from X (Twitter) with one click.** Auto-scroll your feed, bookmarks, or any timeline and save every video — or download individual videos with the built-in button on each tweet.\n\nPerfect for saving your bookmarked videos, archiving NSFW/18+ content before it disappears, or batch downloading from any X feed.\n\n[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)\n[![Manifest V3](https://img.shields.io/badge/Manifest-V3-brightgreen)](https://developer.chrome.com/docs/extensions/mv3/intro/)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)\n\n---\n\n## Features\n\n- **Download button on every video tweet** — A download button appears in the action bar of every tweet with a video. One click to save.\n- **Bulk auto-download** — Set a max number (e.g. 100), hit Start, and the extension scrolls your feed an"
+    },
+    {
+      "id": 1366607771,
+      "repo": "SalarTaheri/LinuxNetwork",
+      "url": "https://github.com/SalarTaheri/LinuxNetwork",
+      "description": "LinuxNetwork Main page",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 8,
+      "readme_snippet": "<div align=\"center\">\n\n# 🌐 LinuxNetwork.ir\n\n**The Ultimate Linux Network & Kernel Tuning Toolbox**  \n*جعبه‌ابزار تخصصی بهینه‌سازی شبکه، تیونینگ کرنل و کانفیگ خودکار لینوکس*\n\n[![Live Website](https://img.shields.io/badge/Live-linuxnetwork.ir-10b981?style=for-the-badge&logo=cloudflare&logoColor=white)](https://linuxnetwork.ir)\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)\n[![Node Version](https://img.shields.io/badge/Node.js-%3E%3D22-green?style=for-the-badge&logo=node.js)](package.json)\n[![React 19](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react&logoColor=black)](package.json)\n[![TailwindCSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](package.json)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/SalarTaheri/LinuxNetwork/pulls)\n\n<p align=\"center\">\n  <a href=\"#-features\">Features</a> •\n"
+    },
+    {
+      "id": 1124919682,
+      "repo": "Gimanh/taskview-community",
+      "url": "https://github.com/Gimanh/taskview-community",
+      "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+      "language": "TypeScript",
+      "topics": [
+        "graphview",
+        "kanban-board",
+        "nodejs",
+        "productivity",
+        "project-management",
+        "self-hosted",
+        "task",
+        "task-management",
+        "task-manager",
+        "todoapp"
+      ],
+      "stars": 961,
+      "readme_snippet": "# TaskView™\n\n<p align=\"center\">\n  <img src=\"./assets/taskview/kanban-dark.png\" alt=\"TaskView — Kanban board\" width=\"1440\" style=\"max-width: 100%;\">\n</p>\n\n<p align=\"center\">\n  <strong>Self-hosted project management for software teams.</strong>\n</p>\n\n<p align=\"center\">\n  TaskView combines task management, custom workflows, developer integrations,\n  analytics, and AI-assisted automation in a platform you can run on your own infrastructure.\n</p>\n\n<details>\n  <summary style=\"font-size: 24px\"><strong>View more screenshots</strong></summary>\n\n  <br>\n\n  <img src=\"./assets/taskview/main-light.png\" alt=\"Main dashboard (light theme)\" width=\"100%\">\n  <img src=\"./assets/taskview/main-dark.png\" alt=\"Main dashboard (dark theme)\" width=\"100%\">\n  <img src=\"./assets/taskview/main-collapsed-light.png\" alt=\"Main dashboard with collapsed sidebar (light theme)\" width=\"100%\">\n  <img src=\"./assets/taskview/main-collapsed-dark.png\" alt=\"Main dashboard with collapsed sidebar (dark theme)\" width=\"100%\">\n  <img s"
     }
   ]
 }
