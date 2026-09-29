@@ -5824,6 +5824,30 @@
       ],
       "stars": 79,
       "readme_snippet": "# Divar MCP - Classifieds intelligence for AI agents\r\n\r\n![Divar MCP banner](assets/divar-mcp.png)\r\n\r\nA public MCP server that gives AI agents **real Divar knowledge**: search **Iran's largest classifieds**, **prices in Toman**, categories and neighbourhoods, car mileage and phone specs, rental deposit + rent, ad details, side-by-side comparisons and a live price verdict. **Read-only, no key needed. No login, no phone numbers - ever.**\r\n\r\n**Live endpoint:** `https://divar-mcp.mmdju2.workers.dev/mcp` (Streamable HTTP, stateless)\r\n\r\n**[نسخه فارسی](README_FA.md)** · **[Examples](examples/sample-calls.md)** · **[Tool reference](docs/tools.md)** · **[Changelog](CHANGELOG.md)**\r\n\r\n## Connect in 30 seconds\r\n\r\nAny MCP client, **one URL**. Cline / Cursor / Claude Desktop (`mcp.json` style):\r\n\r\n```json\r\n{\r\n  \"mcpServers\": {\r\n    \"divar\": { \"url\": \"https://divar-mcp.mmdju2.workers.dev/mcp\" }\r\n  }\r\n}\r\n```\r\n\r\nThen just talk: **\"pride under 300 million\"**, **\"two-bedroom to rent in Tehran\"**, **\"is t"
+    },
+    {
+      "id": 1297852328,
+      "repo": "AminMGMT/BackPack",
+      "url": "https://github.com/AminMGMT/BackPack",
+      "description": "High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups",
+      "language": "Go",
+      "topics": [
+        "backpack",
+        "ip-spoof",
+        "ip-spoofing",
+        "ip-spoofing-tunnel",
+        "kcp",
+        "reverse-tunnel",
+        "spoof",
+        "tcp",
+        "tunnel",
+        "tunneling",
+        "udp",
+        "vpn",
+        "websocket"
+      ],
+      "stars": 403,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"img/image.png\" alt=\"BackPack\" width=\"100%\">\n</p>\n\n<h1 align=\"center\">BackPack</h1>\n\n<p align=\"center\">\n  <b>High-performance tunneling between Iran and abroad — built in Go.</b>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/AminMGMT/BackPack/releases/latest\">\n    <img src=\"https://img.shields.io/github/v/release/AminMGMT/BackPack?logo=github&label=release&color=orange\" alt=\"Latest release\">\n  </a>\n  <a href=\"go.mod\">\n    <img src=\"https://img.shields.io/github/go-mod/go-version/AminMGMT/BackPack?logo=go&label=Go\" alt=\"Go version\">\n  </a>\n  <a href=\"LICENSE\">\n    <img src=\"https://img.shields.io/github/license/AminMGMT/BackPack?color=orange\" alt=\"License\">\n  </a>\n  <a href=\"https://github.com/AminMGMT/BackPack/stargazers\">\n    <img src=\"https://img.shields.io/github/stars/AminMGMT/BackPack?style=flat&logo=github&color=orange\" alt=\"GitHub stars\">\n  </a>\n  <a href=\"https://github.com/AminMGMT/BackPack/releases\">\n    <img src=\"https://img.shields.io/"
     }
   ]
 }
