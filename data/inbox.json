@@ -5848,6 +5848,16 @@
       ],
       "stars": 403,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"img/image.png\" alt=\"BackPack\" width=\"100%\">\n</p>\n\n<h1 align=\"center\">BackPack</h1>\n\n<p align=\"center\">\n  <b>High-performance tunneling between Iran and abroad — built in Go.</b>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/AminMGMT/BackPack/releases/latest\">\n    <img src=\"https://img.shields.io/github/v/release/AminMGMT/BackPack?logo=github&label=release&color=orange\" alt=\"Latest release\">\n  </a>\n  <a href=\"go.mod\">\n    <img src=\"https://img.shields.io/github/go-mod/go-version/AminMGMT/BackPack?logo=go&label=Go\" alt=\"Go version\">\n  </a>\n  <a href=\"LICENSE\">\n    <img src=\"https://img.shields.io/github/license/AminMGMT/BackPack?color=orange\" alt=\"License\">\n  </a>\n  <a href=\"https://github.com/AminMGMT/BackPack/stargazers\">\n    <img src=\"https://img.shields.io/github/stars/AminMGMT/BackPack?style=flat&logo=github&color=orange\" alt=\"GitHub stars\">\n  </a>\n  <a href=\"https://github.com/AminMGMT/BackPack/releases\">\n    <img src=\"https://img.shields.io/"
+    },
+    {
+      "id": 1393640976,
+      "repo": "shahabsaalami/jalali-widget",
+      "url": "https://github.com/shahabsaalami/jalali-widget",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 5,
+      "readme_snippet": "# ویجت تاریخ شمسی ویندوز\n\nیک ویجت سبک دسکتاپ برای نمایش تاریخ شمسی امروز به زبان فارسی. برنامه با Python و Tkinter ساخته شده و در پایین سمت راست صفحه قرار می‌گیرد.\n\n## امکانات\n\n- نمایش روز، ماه و سال شمسی به فارسی\n- نمایش تقویم کامل ماه با کلیک چپ\n- مرور ماه‌های قبل و بعد با دکمه‌های بالای تقویم\n- نمایش اختیاری بازه ماه و شماره روزهای میلادی از منوی تنظیمات\n- نمایش تاریخ کامل شمسی و میلادی امروز و روز انتخاب‌شده\n- اجرای اختیاری برنامه با شروع ویندوز\n- مشخص‌کردن روز جاری در تقویم\n- جابه‌جایی ویجت با کشیدن ماوس\n- بستن برنامه با راست‌کلیک\n- پشتیبانی از مقیاس‌بندی DPI ویندوز\n- استفاده از فونت `Vazirmatn FD Medium` در صورت نصب بودن\n\n## دانلود نسخه آماده\n\nبرای استفاده مستقیم در Windows 10 و 11 نسخه 64 بیتی، فایل اجرایی آماده را دانلود کنید:\n\n[دانلود آخرین نسخه `jalawidget.exe`](https://github.com/shahabsaalami/jalali-widget/releases/latest/download/jalawidget.exe)\n\nبرای اجرای این نسخه نیازی به نصب Python نیست.\n\n> ممکن است Windows SmartScreen به‌دلیل نداشتن امضای دیجیتال، هنگام اجرای برنامه ه"
     }
   ]
 }
