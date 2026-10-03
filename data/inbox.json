@@ -5868,6 +5868,22 @@
       "topics": [],
       "stars": 225,
       "readme_snippet": "# Claude for Siri\n\nUse your signed-in Claude Code account from macOS Spotlight and Siri. The menu bar app starts its built-in Swift bridge automatically.\n\n![Claude responding inside Siri on macOS](docs/assets/siri-claude.png)\n\n## TL;DR — how to use it\n\n> **Experimental: requires macOS 27 with SIP and AMFI disabled.** This lowers macOS security protections and uses private, beta-specific APIs. Use a development Mac. The app and scripts do not disable SIP or AMFI for you. This is an independent example, not an official Apple or Anthropic integration.\n\n1. Install **Xcode 27**, accept its license and install its first-launch components. Install **XcodeGen** (`brew install xcodegen`) and [Claude Code](https://code.claude.com/docs/en/overview). Sign in with `claude auth login`.\n2. Build and install the app:\n\n   ```sh\n   git clone https://github.com/mpociot/claude-siri-ai.git\n   cd claude-siri-ai\n   ./scripts/install.sh\n   ```\n\n3. In the **Claude** window, click **Test Connection**. The app f"
+    },
+    {
+      "id": 1384219212,
+      "repo": "mmdju/torob-mcp",
+      "url": "https://github.com/mmdju/torob-mcp",
+      "description": "MCP server for Torob: search, compare and price-check across shops. Read-only, no API key. 14 tools, hosted on Cloudflare Workers.",
+      "language": "TypeScript",
+      "topics": [
+        "cloudflare-workers",
+        "mcp",
+        "model-context-protocol",
+        "persian",
+        "torob"
+      ],
+      "stars": 40,
+      "readme_snippet": "# Torob MCP - Price comparison intelligence for AI agents\n\n![Torob MCP banner](assets/torob-mcp.png)\n\nA public MCP server that gives AI agents **real Torob knowledge**: search **Iran's price-comparison engine**, **prices in Toman**, **every seller's offer on one product**, **price history and trends**, **shop profiles**, in-person sellers, shop grades and cities, delivery options, Torob's own filters, category tree, provinces and cities, and the deals it is featuring right now. **Read-only, no key needed. No login, ever.**\n\n**Live endpoint:** `https://torob-mcp.mmdju3.workers.dev/mcp` (Streamable HTTP, stateless) - opening the bare address in a browser shows [the site](https://torob-mcp.mmdju3.workers.dev/), and `GET /mcp` gets the connect page instead of a JSON error.\n\n**[نسخه فارسی](README_FA.md)** · **[Examples](examples/sample-calls.md)** · **[Tool reference](docs/tools.md)** · **[Changelog](CHANGELOG.md)**\n\n## Connect in 30 seconds\n\nAny MCP client, **one URL**. Cline / Cursor / Cl"
     }
   ]
 }
