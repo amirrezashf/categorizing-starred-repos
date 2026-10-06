@@ -5884,6 +5884,26 @@
       ],
       "stars": 40,
       "readme_snippet": "# Torob MCP - Price comparison intelligence for AI agents\n\n![Torob MCP banner](assets/torob-mcp.png)\n\nA public MCP server that gives AI agents **real Torob knowledge**: search **Iran's price-comparison engine**, **prices in Toman**, **every seller's offer on one product**, **price history and trends**, **shop profiles**, in-person sellers, shop grades and cities, delivery options, Torob's own filters, category tree, provinces and cities, and the deals it is featuring right now. **Read-only, no key needed. No login, ever.**\n\n**Live endpoint:** `https://torob-mcp.mmdju3.workers.dev/mcp` (Streamable HTTP, stateless) - opening the bare address in a browser shows [the site](https://torob-mcp.mmdju3.workers.dev/), and `GET /mcp` gets the connect page instead of a JSON error.\n\n**[نسخه فارسی](README_FA.md)** · **[Examples](examples/sample-calls.md)** · **[Tool reference](docs/tools.md)** · **[Changelog](CHANGELOG.md)**\n\n## Connect in 30 seconds\n\nAny MCP client, **one URL**. Cline / Cursor / Cl"
+    },
+    {
+      "id": 1372740056,
+      "repo": "RezaEsmailGol/lahne-man",
+      "url": "https://github.com/RezaEsmailGol/lahne-man",
+      "description": "لحن من -lahne-man",
+      "language": "Python",
+      "topics": [],
+      "stars": 16,
+      "readme_snippet": "# لحن من\n\n<p align=\"center\">\n  <img src=\"assets/lahne-man-cover.jpg\" alt=\"معرفی لحن من؛ ویرایش طبیعی متن فارسی با حفظ لحن نویسنده\" width=\"100%\">\n</p>\n\n**لحن من** یک مهارت متن‌باز برای ویرایش متن فارسی است که کلیشه‌های ماشینی و الگوهای رایج نوشته‌های تولیدشده با هوش مصنوعی را کم می‌کند، بدون اینکه صدای واقعی نویسنده را صاف و یکدست کند.\n\nاگر متن شما محاوره‌ای، رسمی، فنی، تبلیغاتی، آموزشی یا ترکیبی از فارسی و انگلیسی باشد، «لحن من» تلاش می‌کند همان سبک را حفظ کند و فقط چیزهایی را تغییر دهد که واقعاً متن را مصنوعی، تکراری یا مبهم کرده‌اند.\n\n> «لحن من» ابزار تشخیص قطعی نویسنده انسانی یا هوش مصنوعی نیست. این پروژه الگوهای قابل مشاهده در متن را بررسی می‌کند، نه هویت نویسنده را.\n\n## چه کارهایی انجام می‌دهد؟\n\n- حذف مقدمه‌های کلیشه‌ای مثل «در دنیای امروز»، «لازم به ذکر است» و «حقیقت این است که» وقتی اطلاعاتی اضافه نمی‌کنند.\n- کم کردن بزرگ‌نمایی‌هایی مثل «انقلابی»، «نقطه عطف»، «بی‌نظیر» و «تحول‌آفرین» وقتی پشتوانه‌ای ندارند.\n- اصلاح ریتم رباتیک، جمله‌های ضربه‌ای پشت‌سرهم، تقارن بیش‌ازحد و سه‌تایی"
+    },
+    {
+      "id": 1369452533,
+      "repo": "0antuosh0-create/persian-docker-learning-platform",
+      "url": "https://github.com/0antuosh0-create/persian-docker-learning-platform",
+      "description": "پلتفرم جامع، تعاملی و سناریومحور یادگیری مهندسی داکر به زبان فارسی | Interactive Docker Learning Platform in Persian",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 15,
+      "readme_snippet": "# ⚓ بندرِ داکر (Docker Harbor)\n### An Interactive, Scenario-Based Docker Learning Platform in Persian\n\n[![GitHub Pages](https://img.shields.io/badge/Live_Demo-GitHub_Pages-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://0antuosh0-create.github.io/persian-docker-learning-platform/)\n[![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)\n[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)\n[![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)\n[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)\n[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](./LICENSE)\n\n[🇮🇷 **مشاهده مستندات به زبان فارسی (README.fa.md)**]"
     }
   ]
 }
