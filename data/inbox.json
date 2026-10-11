@@ -5986,6 +5986,70 @@
       "topics": [],
       "stars": 7,
       "readme_snippet": "<div align=\"center\">\n\n# UI UX CR — Cyber-Rage Design Intelligence Engine\n\n**Ultra-premium design intelligence engine — 29 tools in one skill.**\n\n<a href=\"https://github.com/CyebRageAnonymuos/ui-ux-cr/releases\"><img src=\"https://img.shields.io/badge/version-3.1.0-FF006E?style=for-the-badge\" alt=\"Version\"></a>\n<img src=\"https://img.shields.io/badge/python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white\" alt=\"Python\">\n<img src=\"https://img.shields.io/badge/tools-29-22D3EE?style=for-the-badge\" alt=\"Tools\">\n<img src=\"https://img.shields.io/badge/themes-65-A855F7?style=for-the-badge\" alt=\"Themes\">\n<img src=\"https://img.shields.io/badge/icons-155-F97316?style=for-the-badge\" alt=\"Icons\">\n<img src=\"https://img.shields.io/badge/products-70+-10B981?style=for-the-badge\" alt=\"Products\">\n<img src=\"https://img.shields.io/badge/license-MIT-EAB308?style=for-the-badge\" alt=\"License\">\n\n<p align=\"center\">\n  <a href=\"#features\">Features</a> •\n  <a href=\"#the-toolbox\">The Toolbox</a> •\n  <a href="
+    },
+    {
+      "id": 118970914,
+      "repo": "debauchee/barrier",
+      "url": "https://github.com/debauchee/barrier",
+      "description": "Open-source KVM software",
+      "language": "C",
+      "topics": [
+        "barrier",
+        "gplv2",
+        "keyboard",
+        "kvm",
+        "mouse",
+        "sharing"
+      ],
+      "stars": 30916,
+      "readme_snippet": "# Barrier\n\nEliminate the barrier between your machines.\nFind [releases for windows and macOS here](https://github.com/debauchee/barrier/releases).\nYour distro probably already has barrier packaged for it, see [distro specific packages](#distro-specific-packages)\nbelow for a list. Alternatively, we also provide a [flatpak](https://github.com/flathub/com.github.debauchee.barrier)\nand a [snap](https://snapcraft.io/barrier).\n\n### Contact info:\n\n- `#barrier` on LiberaChat IRC network\n\n#### CI Build Status\n\nMaster branch overall build status: [![Build Status](https://dev.azure.com/debauchee/Barrier/_apis/build/status/debauchee.barrier?branchName=master)](https://dev.azure.com/debauchee/Barrier/_build/latest?definitionId=1&branchName=master)\n\n|Platform       |Build Status|\n|            --:|:--         |\n|Linux          |[![Build Status](https://dev.azure.com/debauchee/Barrier/_apis/build/status/debauchee.barrier?branchName=master&jobName=Linux%20Build)](https://dev.azure.com/debauchee/Barrier"
+    },
+    {
+      "id": 25135037,
+      "repo": "deskflow/deskflow",
+      "url": "https://github.com/deskflow/deskflow",
+      "description": "Share a single keyboard and mouse between multiple computers.",
+      "language": "C++",
+      "topics": [
+        "keyboard",
+        "keyboard-emulation",
+        "mouse",
+        "mouse-emulation",
+        "network"
+      ],
+      "stars": 29570,
+      "readme_snippet": "<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/deskflow/deskflow-artwork/blob/main/logo/deskflow-logo-dark-200px.png?raw=true\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/deskflow/deskflow-artwork/blob/main/logo/deskflow-logo-light-200px.png?raw=true\">\n  <img alt=\"Deskflow\" src=\"https://github.com/user-attachments/assets/f005b958-24df-4f4a-9bfd-4f834dae59d6\">\n</picture>\n\n**Deskflow** is a free and open source keyboard and mouse sharing app.\nUse the keyboard, mouse, or trackpad of one computer to control nearby computers,\nand work seamlessly between them.\nIt's like a software KVM (but without the video).\nTLS encryption is enabled by default. Wayland is supported. Clipboard sharing is supported.\n\n> [!TIP]\n>\n> **Chat with us**\n>\n> - Main discussion on Matrix: [`#deskflow:matrix.org`](https://matrix.to/#/#deskflow:matrix.org) ([Matrix clients](https://matrix.org/ecosystem/clients/))\n> - Discussion also happens on IRC: `#d"
+    },
+    {
+      "id": 1032808806,
+      "repo": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-hacking",
+        "ai-penetration-testing",
+        "ai-pentesting",
+        "ai-security",
+        "artificial-intelligence",
+        "bug-bounty",
+        "code-quality",
+        "ctf-tools",
+        "cybersecurity",
+        "cybersecurity-tools",
+        "ethical-hacking",
+        "hacking",
+        "llm-security",
+        "offensive-security",
+        "penetration-testing",
+        "pentesting-tools",
+        "red-teaming",
+        "security",
+        "security-automation"
+      ],
+      "stars": 67768,
+      "readme_snippet": "<p align=\"center\">\n  <a href=\"https://strix.ai/\">\n    <img src=\"https://github.com/usestrix/.github/raw/main/imgs/cover.png\" alt=\"Strix Banner\" width=\"100%\">\n  </a>\n</p>\n\n<div align=\"center\">\n\n# Strix\n\n### The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities.\n\n<br/>\n\n\n<a href=\"https://docs.strix.ai\"><img src=\"https://img.shields.io/badge/Docs-docs.strix.ai-2b9246?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Docs\"></a>\n<a href=\"https://strix.ai\"><img src=\"https://img.shields.io/badge/Website-strix.ai-f0f0f0?style=for-the-badge&logoColor=000000\" alt=\"Website\"></a>\n[![](https://dcbadge.limes.pink/api/server/strix-ai)](https://discord.gg/strix-ai)\n\n<a href=\"https://app.strix.ai?utm_source=github&utm_medium=readme&utm_content=badge_cloud\"><img src=\"https://img.shields.io/badge/Strix%20Cloud-app.strix.ai-2b9246?style=for-the-badge&logoColor=white\" alt=\"Strix Cloud\"></a>\n<a href=\"https://strix.ai/demo?utm_source=github&utm_medium=rea"
     }
   ]
 }
