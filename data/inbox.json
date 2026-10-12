@@ -6050,6 +6050,23 @@
       ],
       "stars": 67768,
       "readme_snippet": "<p align=\"center\">\n  <a href=\"https://strix.ai/\">\n    <img src=\"https://github.com/usestrix/.github/raw/main/imgs/cover.png\" alt=\"Strix Banner\" width=\"100%\">\n  </a>\n</p>\n\n<div align=\"center\">\n\n# Strix\n\n### The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities.\n\n<br/>\n\n\n<a href=\"https://docs.strix.ai\"><img src=\"https://img.shields.io/badge/Docs-docs.strix.ai-2b9246?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Docs\"></a>\n<a href=\"https://strix.ai\"><img src=\"https://img.shields.io/badge/Website-strix.ai-f0f0f0?style=for-the-badge&logoColor=000000\" alt=\"Website\"></a>\n[![](https://dcbadge.limes.pink/api/server/strix-ai)](https://discord.gg/strix-ai)\n\n<a href=\"https://app.strix.ai?utm_source=github&utm_medium=readme&utm_content=badge_cloud\"><img src=\"https://img.shields.io/badge/Strix%20Cloud-app.strix.ai-2b9246?style=for-the-badge&logoColor=white\" alt=\"Strix Cloud\"></a>\n<a href=\"https://strix.ai/demo?utm_source=github&utm_medium=rea"
+    },
+    {
+      "id": 1234724745,
+      "repo": "open-free-llm-api/awesome-freellm-apis",
+      "url": "https://github.com/open-free-llm-api/awesome-freellm-apis",
+      "description": "134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.",
+      "language": "Not specified",
+      "topics": [
+        "free-llm-api",
+        "free-llm-models",
+        "free-llm-resources",
+        "free-models",
+        "freellm",
+        "freellmapi"
+      ],
+      "stars": 4079,
+      "readme_snippet": "<p align=\"center\">\n  <h1 align=\"center\">awesome-free-llm-apis</h1>\n  <!-- AUTO_STATS -->\n  <p align=\"center\"><strong>506+ free LLM APIs from 30 providers</strong> — find, compare & configure free models in seconds.</p>\n<!-- END_AUTO_STATS -->\n</p>\n\n<p align=\"center\">\n  <a href=\"https://freellm.net\" target=\"_blank\" rel=\"noopener\"><strong>🌐 Live at freellm.net</strong></a> —\n  <a href=\"https://freellm.net/models/\" target=\"_blank\" rel=\"noopener\">Browse models</a> ·\n  <a href=\"https://freellm.net/playground/\" target=\"_blank\" rel=\"noopener\">Playground</a> ·\n  <a href=\"https://freellm.net/config/\" target=\"_blank\" rel=\"noopener\">Config generator</a> ·\n  <a href=\"https://freellm.net/free-llm-api-keys/\" target=\"_blank\" rel=\"noopener\">API keys</a>\n</p>\n\n<p align=\"center\">\n  <img alt=\"Provider Logos\" src=\"assets/provider-logos-marquee.svg\" width=\"100%\" />\n</p>\n\n<!-- AUTO_UPDATE_BADGE -->\n  <p align=\"center\"><strong>🔄 Data refreshed daily from <a href=\"https://freellm.net\" target=\"_blank\" rel=\"noo"
     }
   ]
 }
