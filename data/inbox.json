@@ -6067,6 +6067,169 @@
       ],
       "stars": 4079,
       "readme_snippet": "<p align=\"center\">\n  <h1 align=\"center\">awesome-free-llm-apis</h1>\n  <!-- AUTO_STATS -->\n  <p align=\"center\"><strong>506+ free LLM APIs from 30 providers</strong> — find, compare & configure free models in seconds.</p>\n<!-- END_AUTO_STATS -->\n</p>\n\n<p align=\"center\">\n  <a href=\"https://freellm.net\" target=\"_blank\" rel=\"noopener\"><strong>🌐 Live at freellm.net</strong></a> —\n  <a href=\"https://freellm.net/models/\" target=\"_blank\" rel=\"noopener\">Browse models</a> ·\n  <a href=\"https://freellm.net/playground/\" target=\"_blank\" rel=\"noopener\">Playground</a> ·\n  <a href=\"https://freellm.net/config/\" target=\"_blank\" rel=\"noopener\">Config generator</a> ·\n  <a href=\"https://freellm.net/free-llm-api-keys/\" target=\"_blank\" rel=\"noopener\">API keys</a>\n</p>\n\n<p align=\"center\">\n  <img alt=\"Provider Logos\" src=\"assets/provider-logos-marquee.svg\" width=\"100%\" />\n</p>\n\n<!-- AUTO_UPDATE_BADGE -->\n  <p align=\"center\"><strong>🔄 Data refreshed daily from <a href=\"https://freellm.net\" target=\"_blank\" rel=\"noo"
+    },
+    {
+      "id": 1131830479,
+      "repo": "Atharvsinh-codez/ObsidianUI",
+      "url": "https://github.com/Atharvsinh-codez/ObsidianUI",
+      "description": "React & Tailwind CSS Components Library",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 474,
+      "readme_snippet": "<div align=\"center\">\n  <a href=\"https://www.obsidianui.dev\">\n    <img\n      src=\"https://cdn-new.obsidianui.dev/og-image.png\"\n      alt=\"ObsidianUI - React & Tailwind CSS Components Library\"\n      width=\"100%\"\n    />\n  </a>\n</div>\n\n<div align=\"center\">\n\n# ObsidianUI\n\n**Design Less. Ship Better.**  \nObsidianUI is React & Tailwind CSS Component Library featuring components, blocks, and landing page templates.\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/Next.js_16-0a0a0a?logo=nextdotjs&logoColor=white\" alt=\"Next.js\" />\n  <img src=\"https://img.shields.io/badge/React_19-0a0a0a?logo=react&logoColor=white\" alt=\"React\" />\n  <img src=\"https://img.shields.io/badge/Tailwind_CSS_v4-0a0a0a?logo=tailwindcss&logoColor=white\" alt=\"Tailwind CSS\" />\n  <img src=\"https://img.shields.io/badge/TypeScript-0a0a0a?logo=typescript&logoColor=white\" alt=\"TypeScript\" />\n  <img src=\"https://img.shields.io/badge/shadcn-registry-white?labelColor=0a0a0a\" alt=\"shadcn registry\" />\n  <img src=\"https://im"
+    },
+    {
+      "id": 1396117711,
+      "repo": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 5070,
+      "readme_snippet": "<div align=\"center\">\n\n# OpenDots\n\n### Always-on AI coworkers that move between text, calls, and Slack.\n\n**An open-source template for persistent AI agents, each with its own computer. Available on Web and Mobile.**\n\nBuilt with [CopilotKit](https://github.com/CopilotKit/CopilotKit) and [AG-UI](https://docs.ag-ui.com/introduction). · [Get started](#get-started) · [Overview](#overview) · [Architecture](#architecture) · [Features](#features) · [Contributing](CONTRIBUTING.md)\n\n[![CI](https://github.com/CopilotKit/OpenDots/actions/workflows/ci.yml/badge.svg)](https://github.com/CopilotKit/OpenDots/actions/workflows/ci.yml)\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)\n![Alpha](https://img.shields.io/badge/status-alpha-orange.svg)\n\n<a href=\"https://trendshift.io/repositories/275323\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/275323/daily?language=TypeScript\" alt=\"CopilotKit/OpenDots | Trendshift #2 TypeScript Repository "
+    },
+    {
+      "id": 1409192138,
+      "repo": "amir9480/gamenet-time-manager",
+      "url": "https://github.com/amir9480/gamenet-time-manager",
+      "description": "نرم افزار رایگان مدیریت زمان و هزینه‌ی گیم نت: محاسبه‌ی خودکار هزینه‌ی تایم هر دستگاه، بوفه، مشتریان، نسیه و گزارش‌گیری. قابل نصب و بدون نیاز به اینترنت.",
+      "language": "TypeScript",
+      "topics": [
+        "gameclub",
+        "gamenet"
+      ],
+      "stars": 9,
+      "readme_snippet": "<div dir=\"rtl\" align=\"right\">\n\n<div align=\"center\">\n  <img alt=\"نرم افزار مدیریت زمان گیم نت\" src=\"public/img/banner.png\" width=\"100%\">\n</div>\n<h1 align=\"center\">نرم‌افزار مدیریت زمان گیم‌نت</h1>\n\n<p align=\"center\">\n  <a href=\"https://amir9480.github.io/gamenet-time-manager/\"><img alt=\"PWA online\" src=\"https://img.shields.io/badge/PWA-online-5a0fc8?logo=pwa&logoColor=white\"></a>\n  <a href=\"https://github.com/amir9480/gamenet-time-manager/releases\"><img alt=\"Version\" src=\"https://img.shields.io/github/v/release/amir9480/gamenet-time-manager?include_prereleases&label=version\"></a>\n  <a href=\"https://github.com/amir9480/gamenet-time-manager/actions/workflows/deploy.yml\"><img alt=\"Build\" src=\"https://img.shields.io/github/actions/workflow/status/amir9480/gamenet-time-manager/deploy.yml?label=build\"></a>\n  <a href=\"LICENSE\"><img alt=\"License\" src=\"https://img.shields.io/github/license/amir9480/gamenet-time-manager?label=license\"></a>\n  <img alt=\"Platform\" src=\"https://img.shields.io/badge/p"
+    },
+    {
+      "id": 1377528005,
+      "repo": "FarhamAghdasi/sheypoor-mcp",
+      "url": "https://github.com/FarhamAghdasi/sheypoor-mcp",
+      "description": "MCP server for Sheypoor, Iran's classifieds marketplace. Search listings, get product details, manage accounts, bookmarks, chats, and more through Claude, Cursor, or any MCP-compatible AI client.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-tools",
+        "automation",
+        "claude-code",
+        "cursor",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "nodejs",
+        "npm",
+        "reverse-engineering",
+        "sheypoor",
+        "typescript",
+        "web-scraping"
+      ],
+      "stars": 5,
+      "readme_snippet": "<div align=\"center\">\n\n# 🛍️ Sheypoor MCP\n\n**Model Context Protocol server for [Sheypoor](https://www.sheypoor.com) — Iran's largest classifieds marketplace.**\n\n[![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)\n[![node](https://img.shields.io/badge/node-%3E%3D20.11-brightgreen.svg?style=flat-square)](https://nodejs.org/)\n[![MCP](https://img.shields.io/badge/MCP-compatible-blue.svg?style=flat-square)](https://modelcontextprotocol.io/)\n\nSearch listings · Get product details · Manage your account · Chat · Bookmark — all from Claude, Cursor, or any MCP host.\n\n</div>\n\n---\n\n## What is this?\n\n`sheypoor-mcp` is an [MCP](https://modelcontextprotocol.io/) server that exposes the\nSheypoor marketplace as tools an LLM can call. Ask Claude:\n\n> *\"Find the 5 cheapest iPhone 15 Pro Max in Tehran with images.\"*\n\n…and it will chain `list_provinces` → `search_listings` → `get_listing` → produce a table.\n\n---\n\n## Preview\n\n![Kilocode MCP Screenshot](document/kilocode."
+    },
+    {
+      "id": 1140828898,
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "topics": [],
+      "stars": 29350,
+      "readme_snippet": "# Knowledge Work Plugins\n\nPlugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code).\n\n## Why Plugins\n\nCowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes.\n\nEach plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the box, they give Claude a strong starting point for helping anyone in that role. The real power comes when you customize them for your company — your tools, your terminology, your processes — so Claude works like it was built for your team.\n\n## Plugin Marketplace\n\nWe're open-sourcing 11 plugins built and inspired by our own "
+    },
+    {
+      "id": 1359181741,
+      "repo": "HELBOYCODER/nexshop-wordpress-theme",
+      "url": "https://github.com/HELBOYCODER/nexshop-wordpress-theme",
+      "description": "🔥 NexShop — قالب فروشگاهی وردپرس رایگان | تیره، مینیمال، کاملاً راست‌چین 🇮🇷 | زرین‌پال/زیبال/Stripe/PayPal + AI/MCP + سئو",
+      "language": "PHP",
+      "topics": [],
+      "stars": 4,
+      "readme_snippet": "# NexShop — قالب فروشگاهی وردپرس (رایگان)\n\n> 🔥 تیره • مینیمال • کاملاً راست‌چین 🇮🇷 — برای فروشگاه‌های ایرانی و بین‌المللی\n\n![NexShop Banner](banner.png)\n\n## ✨ ویژگی‌ها\n- ✅ پنل تنظیمات اختصاصی\n- ✅ آماده اتصال به **زرین‌پال، زیبال، Stripe و PayPal**\n- ✅ اتصال به **هوش مصنوعی + MCP + وب‌هوک** برای n8n و AI Agentها (REST API کاتالوگ + وب‌هوک سفارش)\n- ✅ **اسکیمای سئو + تأیید گوگل و بینگ** داخل خود قالب (بدون نیاز به افزونه)\n- ✅ انیمیشن‌های نرم و UI پرمیوم — تم تیره مینیمال\n\n## 📦 نصب\n1. فایل `nexshop-theme-v1.0.0.zip` را دانلود کنید (از [Releases](../../releases))\n2. وردپرس → نمایش → پوسته‌ها → افزودن → بارگذاری پوسته → انتخاب فایل زیپ\n3. فعال‌سازی → تنظیمات از پنل اختصاصی (نمایش → NexShop Settings)\n\n> سازگار با **WooCommerce** — تومان/ریال + درگاه‌های ایرانی و خارجی\n\n## 🔧 پنل تنظیمات\nنمایش → NexShop Settings — لوگو، رنگ‌ها، درگاه‌ها، سئو، وب‌هوک‌ها، تأیید Search Console\n\n## 🖼 پیش‌نمایش\n![Screenshot](screenshot.png)\n\n## 📄 مجوز\nMIT — رایگان برای استفاده شخصی و تجاری. اگر به دردت خورد ⭐ بده و "
+    },
+    {
+      "id": 1402361182,
+      "repo": "sepehr071/snapp-mcp",
+      "url": "https://github.com/sepehr071/snapp-mcp",
+      "description": "Unofficial read-only MCP server for Snappfood and SnappMarket (اسنپ‌فود), Iran: search food and groceries near you, compare prices, find deals. For Claude, Cursor and Copilot via uvx.",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "cursor",
+        "food-delivery",
+        "grocery",
+        "iran",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "persian",
+        "price-comparison",
+        "python",
+        "snappfood",
+        "snappmarket",
+        "unofficial-api",
+        "uvx"
+      ],
+      "stars": 33,
+      "readme_snippet": "<!-- mcp-name: io.github.sepehr071/snapp-mcp -->\n\n<div align=\"center\">\n\n<img src=\"https://raw.githubusercontent.com/sepehr071/snapp-mcp/main/.github/banner.png\" alt=\"snapp-mcp: unofficial Snappfood and SnappMarket MCP server for Claude, Cursor and Copilot\" width=\"100%\">\n\n# snapp-mcp: Snappfood and SnappMarket MCP server for AI agents\n\n**Let your AI agent shop around on Snappfood and SnappMarket (اسنپ&zwnj;فود و اسنپ&zwnj;مارکت).**<br>\nAn unofficial, read-only MCP server for Iran's food delivery and grocery apps: search dishes and groceries,<br>\ncompare real prices across hundreds of restaurants and stores, read menus and reviews, and catch today's flash deals, all from Claude, Cursor or Copilot.\n\n[![PyPI](https://img.shields.io/pypi/v/snapp-mcp?color=2563eb)](https://pypi.org/project/snapp-mcp/)\n[![Python](https://img.shields.io/pypi/pyversions/snapp-mcp)](https://pypi.org/project/snapp-mcp/)\n[![CI](https://github.com/sepehr071/snapp-mcp/actions/workflows/ci.yml/badge.svg)](https://git"
+    },
+    {
+      "id": 1414327429,
+      "repo": "sepehr071/awesome-iran-mcp",
+      "url": "https://github.com/sepehr071/awesome-iran-mcp",
+      "description": "19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "awesome",
+        "claude",
+        "claude-code-plugin",
+        "digikala",
+        "iran",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "model-context-protocol",
+        "persian",
+        "price-comparison",
+        "snappfood",
+        "unofficial-api"
+      ],
+      "stars": 65,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/banner.svg\" alt=\"awesome-iran-mcp: 19 unofficial MCP servers and 308 tools for Iranian shopping, food, travel, health and book sites, for Claude, Cursor and Copilot\" width=\"100%\">\n\n**English** · [فارسی](README.fa.md)\n\n# Iran MCP servers: awesome-iran-mcp\n\n**Give your AI agent the Iranian web.**<br>\n19 unofficial, open-source Persian-web MCP servers for Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more.<br>\nSearch, compare prices in Toman, find free slots and today's deals from Claude, Cursor, GitHub Copilot in VS Code or any MCP client.<br>\nInstall them as Claude Code plugins with skills, or as Agent Skills for Codex, Cursor, Antigravity and Grok Build.\n\n[![Servers](https://img.shields.io/badge/servers-19-3fd6c9)](#the-servers)\n[![Tools](https://img.shields.io/badge/tools-308-f4b54a)](TOOLS.md)\n[![Claude Code plugins](https://img.shields.io/badge/Claude_Code-plugin_marketplace-d97757)](#quick-start)\n[![MCP Registry](https://img.s"
+    },
+    {
+      "id": 968741443,
+      "repo": "H120/AI-Chat-Scroller",
+      "url": "https://github.com/H120/AI-Chat-Scroller",
+      "description": "Adds scroll controls, message numbering, and a toggleable UI to supported AI chat platforms, active only on specific URLs.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 24,
+      "readme_snippet": "# AI Chat Scroller 1.4.0\n![Logo](images/logo.png)\n\n**AI Chat Scroller** is a lightweight Chrome extension that enhances your experience on popular AI chat platforms such as ChatGPT, Gemini, Grok, Claude, Copilot and Qwen.\n\n### ✨ Features\n- Auto-numbers AI messages in chat\n- Scroll through messages using up/down buttons\n- Toggle the UI on or off\n- Remembers UI state across sessions\n- **Bookmark messages for quick reference (stored separately for each chat page)**\n- Runs only on supported AI chat Websites\n- Pin a message by double-clicking its message number\n- Jump to any message you want by click on the the number message in right menu and type the number\n- Jump instantly to the first or last message\n\n[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hkjjhdgfolmahfakmobelcbjmedikegl.svg?label=Chrome%20Extension&color=blue)](https://chromewebstore.google.com/detail/ai-chat-scroller/hkjjhdgfolmahfakmobelcbjmedikegl)\n[![Firefox Add-ons](https://img.shields.io/amo/v/ai-chat-scr"
+    },
+    {
+      "id": 1358147851,
+      "repo": "jozmoz/private-browser-pro",
+      "url": "https://github.com/jozmoz/private-browser-pro",
+      "description": "Professional Anti-Detect Browser Manager with isolated fingerprint spoofing, zero-data ephemeral sessions, and proxy tunneling.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 12,
+      "readme_snippet": "# 🛡️ Private Browser Pro\n\n> **Advanced Anti-Detect Browser Manager & Zero-Data Chromium Isolation Engine**\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)\n[![Chromium: 151](https://img.shields.io/badge/Chromium-v151-green.svg)](https://www.chromium.org/)\n[![Electron](https://img.shields.io/badge/Electron-v33-blueviolet.svg)](https://www.electronjs.org/)\n[![Platform](https://img.shields.io/badge/Platform-Windows%20x64-informational.svg)]()\n[![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)]()\n[![Telegram: @jozm0z](https://img.shields.io/badge/Telegram-@jozm0z-2CA5E0?logo=telegram&logoColor=white)](https://t.me/jozm0z)\n\n> 🌐 **Language:** **English** | [🇮🇷 **مشاهده مستندات به زبان فارسی (Persian README)**](README_FA.md)\n\n**Private Browser Pro** is a lightweight, ultra-secure desktop application designed to manage isolated browser profiles with dedicated digital identities (anti-detect fingerprinting), zero-data ephemeral browsing "
+    },
+    {
+      "id": 1372586213,
+      "repo": "Realjustawall/Easy-Fa",
+      "url": "https://github.com/Realjustawall/Easy-Fa",
+      "description": "",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 10,
+      "readme_snippet": "# Easy-Fa\n\nEasy-Fa is a Chrome Manifest V3 extension focused on Persian typography, mixed RTL/LTR rendering, per-site font controls, dynamic chat/content detection, and safe font application across supported websites.\n\n**Created by JustAWall**\n\n## Current version\n\n- Extension version: **0.5.3**\n- Easy-Fa config version: **12.0**\n- Manifest: **V3**\n- Package label: **Alpha 0.5.3 Redesigned Settings + Global Profiles**\n\n## What is new in 0.5.3\n\n### Redesigned Sites workspace\n\nThe built-in Sites section now uses a dedicated two-column workspace:\n\n- Supported sites are shown as a **vertical rail on the left**.\n- The selected site's settings open in a separate panel on the right.\n- Every site shows its current enabled/disabled status directly in the rail.\n- Long labels, URLs, selectors, controls, cards, and responsive layouts are constrained so they do not overflow the settings container.\n- On narrow windows the layout collapses safely instead of forcing horizontal overflow.\n- Site state in"
     }
   ]
 }
