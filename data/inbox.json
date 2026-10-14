@@ -6230,6 +6230,16 @@
       "topics": [],
       "stars": 10,
       "readme_snippet": "# Easy-Fa\n\nEasy-Fa is a Chrome Manifest V3 extension focused on Persian typography, mixed RTL/LTR rendering, per-site font controls, dynamic chat/content detection, and safe font application across supported websites.\n\n**Created by JustAWall**\n\n## Current version\n\n- Extension version: **0.5.3**\n- Easy-Fa config version: **12.0**\n- Manifest: **V3**\n- Package label: **Alpha 0.5.3 Redesigned Settings + Global Profiles**\n\n## What is new in 0.5.3\n\n### Redesigned Sites workspace\n\nThe built-in Sites section now uses a dedicated two-column workspace:\n\n- Supported sites are shown as a **vertical rail on the left**.\n- The selected site's settings open in a separate panel on the right.\n- Every site shows its current enabled/disabled status directly in the rail.\n- Long labels, URLs, selectors, controls, cards, and responsive layouts are constrained so they do not overflow the settings container.\n- On narrow windows the layout collapses safely instead of forcing horizontal overflow.\n- Site state in"
+    },
+    {
+      "id": 1297846726,
+      "repo": "EhsanKey/amozeshyar-exporter",
+      "url": "https://github.com/EhsanKey/amozeshyar-exporter",
+      "description": "A Chrome extension for extracting and exporting courses from Amozeshyar",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 18,
+      "readme_snippet": "# Amozeshyar Exporter — Chrome/Firefox Extension\n\nA professional browser extension for extracting course data from the **Amozeshyar (IAU E-Services)** system and exporting it into different formats.\n\n---\n\n## Features\n\n- **One-click course data extraction** from the course table\n- **Multi-page course collection** without losing previously extracted data\n- **Duplicate prevention** based on course code + offering code\n- **Excel export (.xlsx)** — RTL format with styled headers and optimized column widths\n- **PDF export** — Professional print layout with full Persian font support\n- **Column selection** before exporting files\n- **Automatic Jalali date-based filenames**\n- **Temporary storage** — Data is cleared when the browser is closed\n- Fully **RTL-compatible minimalist UI design**\n\n---\n\n## Supported Domains\n\n| Domain                   |\n| ------------------------ |\n| `https://eserv.iau.ir/*` |\n| `https://stdn.iau.ir/*`  |\n| `https://stdn2.iau.ir/*` |\n\n---\n\n## Installation\n\n### Download P"
     }
   ]
 }
