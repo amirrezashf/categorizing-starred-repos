@@ -6240,6 +6240,16 @@
       "topics": [],
       "stars": 18,
       "readme_snippet": "# Amozeshyar Exporter — Chrome/Firefox Extension\n\nA professional browser extension for extracting course data from the **Amozeshyar (IAU E-Services)** system and exporting it into different formats.\n\n---\n\n## Features\n\n- **One-click course data extraction** from the course table\n- **Multi-page course collection** without losing previously extracted data\n- **Duplicate prevention** based on course code + offering code\n- **Excel export (.xlsx)** — RTL format with styled headers and optimized column widths\n- **PDF export** — Professional print layout with full Persian font support\n- **Column selection** before exporting files\n- **Automatic Jalali date-based filenames**\n- **Temporary storage** — Data is cleared when the browser is closed\n- Fully **RTL-compatible minimalist UI design**\n\n---\n\n## Supported Domains\n\n| Domain                   |\n| ------------------------ |\n| `https://eserv.iau.ir/*` |\n| `https://stdn.iau.ir/*`  |\n| `https://stdn2.iau.ir/*` |\n\n---\n\n## Installation\n\n### Download P"
+    },
+    {
+      "id": 1416169904,
+      "repo": "thesaikodelik/30nama-apps",
+      "url": "https://github.com/thesaikodelik/30nama-apps",
+      "description": "برنامهٔ غیررسمی ۳۰نما برای Apple TV (tvOS، SwiftUI). در حال توسعه.",
+      "language": "Swift",
+      "topics": [],
+      "stars": 3,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"docs/banner.jpg\" alt=\"لوگوی ۳۰نما\" width=\"100%\">\n\n<h1 dir=\"rtl\">۳۰نما برای مک و Apple TV</h1>\n\n<p dir=\"rtl\">برنامهٔ غیررسمی، بومی و به‌روز ۳۰نما برای مک و Apple TV، نوشته‌شده با SwiftUI.</p>\n\n<p>\n<a href=\"https://github.com/thesaikodelik/30nama-apps/releases/latest\"><img src=\"https://img.shields.io/badge/Download-Mac%201.1.0-e5484d?style=for-the-badge&logo=apple&logoColor=white\" alt=\"دانلود نسخهٔ مک\"></a>\n</p>\n\n<p>\n<img src=\"https://img.shields.io/badge/macOS-14%2B-000000?logo=apple&logoColor=white\" alt=\"macOS 14 به بالا\">\n<img src=\"https://img.shields.io/badge/tvOS-17%2B-000000?logo=apple&logoColor=white\" alt=\"tvOS 17 به بالا\">\n<img src=\"https://img.shields.io/badge/Intel%20%2B%20Apple%20Silicon-universal-6e7681\" alt=\"اینتل و Apple Silicon\">\n<img src=\"https://img.shields.io/badge/SwiftUI-native-F05138?logo=swift&logoColor=white\" alt=\"SwiftUI\">\n<img src=\"https://img.shields.io/badge/license-MIT-2ea44f\" alt=\"مجوز MIT\">\n<img src=\"https://img.shields.io/bad"
     }
   ]
 }
