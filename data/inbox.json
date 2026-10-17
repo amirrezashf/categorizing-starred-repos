@@ -6250,6 +6250,22 @@
       "topics": [],
       "stars": 3,
       "readme_snippet": "<div align=\"center\">\n\n<img src=\"docs/banner.jpg\" alt=\"لوگوی ۳۰نما\" width=\"100%\">\n\n<h1 dir=\"rtl\">۳۰نما برای مک و Apple TV</h1>\n\n<p dir=\"rtl\">برنامهٔ غیررسمی، بومی و به‌روز ۳۰نما برای مک و Apple TV، نوشته‌شده با SwiftUI.</p>\n\n<p>\n<a href=\"https://github.com/thesaikodelik/30nama-apps/releases/latest\"><img src=\"https://img.shields.io/badge/Download-Mac%201.1.0-e5484d?style=for-the-badge&logo=apple&logoColor=white\" alt=\"دانلود نسخهٔ مک\"></a>\n</p>\n\n<p>\n<img src=\"https://img.shields.io/badge/macOS-14%2B-000000?logo=apple&logoColor=white\" alt=\"macOS 14 به بالا\">\n<img src=\"https://img.shields.io/badge/tvOS-17%2B-000000?logo=apple&logoColor=white\" alt=\"tvOS 17 به بالا\">\n<img src=\"https://img.shields.io/badge/Intel%20%2B%20Apple%20Silicon-universal-6e7681\" alt=\"اینتل و Apple Silicon\">\n<img src=\"https://img.shields.io/badge/SwiftUI-native-F05138?logo=swift&logoColor=white\" alt=\"SwiftUI\">\n<img src=\"https://img.shields.io/badge/license-MIT-2ea44f\" alt=\"مجوز MIT\">\n<img src=\"https://img.shields.io/bad"
+    },
+    {
+      "id": 476507964,
+      "repo": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "topics": [
+        "3d-graphics",
+        "ai",
+        "aivideo",
+        "filmmaking",
+        "imagegeneration"
+      ],
+      "stars": 30606,
+      "readme_snippet": "<h1 align=\"center\">ArtCraft</h1>\n<p align=\"center\"><strong>The IDE for artists.</strong></p>\n\n<!-- Main video: https://www.youtube.com/watch?v=kzvQMdg66Go\n     GitHub media issue: https://github.com/storytold/artcraft/issues/1951 -->\n\nhttps://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11\n\n<p align=\"center\">\n  <a href=\"https://www.youtube.com/watch?v=kzvQMdg66Go\">Watch the two-minute ArtCraft demo on YouTube</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://discord.gg/artcraft\"><img alt=\"Discord members online\" src=\"https://img.shields.io/discord/1359579021108842617?style=for-the-badge&amp;label=Discord&amp;color=5865F2&amp;logo=discord&amp;logoColor=white\"></a>\n  <a href=\"https://www.youtube.com/@OfficialArtCraftStudios\"><img alt=\"YouTube\" src=\"https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white\"></a>\n  <a href=\"https://x.com/get_artcraft\"><img alt=\"X\" src=\"https://img.shields.io/badge/X-181717?style=for-the-badge"
     }
   ]
 }
